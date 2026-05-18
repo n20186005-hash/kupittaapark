@@ -77,7 +77,7 @@
     "cityValue": "Turku",
     "googleRating": "Google Rating",
     "phone": "Phone",
-    "phoneValue": "+358 2 330 000",
+    "phoneValue": "+3582330000",
     "address": "Address",
     "addressValue": "20520 Turku, Finland"
   },
@@ -201,7 +201,9 @@
       "Mini-City for Children",
       "Lawn Recreation Area"
     ],
-    "viewAll": "View on Google Maps"
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
   },
   "reviews": {
     "title": "Visitor Reviews",

@@ -77,7 +77,7 @@
     "cityValue": "图尔库",
     "googleRating": "谷歌评分",
     "phone": "电话",
-    "phoneValue": "+358 2 330 000",
+    "phoneValue": "+3582330000",
     "address": "地址",
     "addressValue": "20520 Turku, Finland"
   },
@@ -201,7 +201,9 @@
       "儿童迷你城市",
       "草坪休闲区"
     ],
-    "viewAll": "在 Google Maps 查看位置"
+    "viewAll": "在 Google Maps 查看位置",
+    "showAll": "查看全部照片",
+    "showLess": "收起照片"
   },
   "reviews": {
     "title": "游客评价",

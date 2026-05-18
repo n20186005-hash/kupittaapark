@@ -24,6 +24,7 @@ export default function Gallery() {
   const t = useTranslations('gallery');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
+  const [showAll, setShowAll] = useState(false);
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
@@ -51,10 +52,10 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
+              {(showAll ? photos : photos.slice(0, 8)).map((photo, i) => (
                 <div
                   key={i}
-                  className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
+                  className={`gallery-item relative group cursor-pointer ${i === 0 && !showAll ? 'col-span-2 row-span-2' : ''}`}
                   onClick={() => {
                     setCurrentIndex(i);
                     openLightbox();
@@ -96,6 +97,24 @@ export default function Gallery() {
             </button>
 
             <div className="flex justify-center mt-6 gap-4 items-center">
+              {!showAll && photos.length > 8 && (
+                <button
+                  onClick={() => setShowAll(true)}
+                  className="text-sm hover:underline font-medium"
+                  style={{ color: 'var(--accent)' }}
+                >
+                  {t('showAll') || `View All ${photos.length} Photos`}
+                </button>
+              )}
+              {showAll && (
+                <button
+                  onClick={() => setShowAll(false)}
+                  className="text-sm hover:underline font-medium"
+                  style={{ color: 'var(--accent)' }}
+                >
+                  {t('showLess') || 'Show Less'}
+                </button>
+              )}
               <a
                 href="https://maps.app.goo.gl/uJAE8F4ZkzSdzspG8"
                 target="_blank"
