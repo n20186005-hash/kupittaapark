@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "title": "Kupittaa Park | Turku's Oldest Urban Park & Green Paradise - Best European Spots",
+    "description": "Complete guide to Kupittaa Park in Turku, Finland. Learn about opening hours, transportation, ticket prices, tour tips and stunning photos. Finland's oldest planned urban park with 170 years of history."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Kupittaa Park",
+    "subtitle": "Turku's Oldest Urban Park & Tranquil Green Paradise",
+    "rating": "4.4(5,095)",
+    "reviewCount": "5,095 reviews",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Kupittaa Park",
+    "description": "Step into Kupittaa Park and be instantly embraced by the serene Nordic greenery. No commercial bustle, just endless lawns, lush trees, crystal-clear lake waters, and winding paths — every corner radiates natural healing energy.\n\nI visited on a summer morning, sunlight filtering through branches to create dappled patterns, a gentle breeze carrying subtle fragrances of grass, flowers, and greenery. The lawns were vast and soft, the lake calm and clear, waterbirds swimming leisurely, century-old trees standing quietly, telling stories of 170 years.\n\nPark visitors moved at an unhurried pace — joggers on paths, picnickers on lawns, children playing joyfully in Mini-City, their laughter echoing through the gardens. Vintage sculptures and commemorative plaques dotted the landscape, adding profound cultural depth to the natural scenery.\n\nThere's no rushing here, only slowing down and finding peace. In the evening, the setting sun bathed the gardens in warm golden hues, the lake sparkled, and tree shadows stretched gently — Kupittaa Park perfectly blends Nordic serenity with urban vibrancy. Healing and beautiful.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Visit on weekday mornings for fewer crowds and soft lighting, ideal for strolling and photography",
+        "All public park areas are free; outdoor pool requires separate admission",
+        "Mosquitoes are prevalent in summer — take precautions",
+        "Bring your own food for a relaxing picnic on the lawn"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Finland's oldest planned urban park, established in 1852",
+        "Finland's oldest outdoor swimming pool (1912)",
+        "19th century Nordic garden design masterpiece",
+        "Sacred Spring carrying legends of Finnish baptism in 1155"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Kupittaa Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "170 Years of Royal & Urban History",
+        "content": "Kupittaa Park's origins trace back to 1820, initially a promenade beside a spa bathhouse. In 1852, architect Gustav Strengel formally designed and built it, becoming Finland's first planned urban park.\n\nThe park's Sacred Spring holds legendary history — it's said that in midsummer 1155, Bishop Henry baptized Finland's first pagans here. In the 18th century, this served as a spa bathhouse, carrying Finnish religious and secular historical memories.\n\nAfter completion, the park underwent multiple expansions and renovations, adding outdoor pools, children's playgrounds, and sports facilities, gradually developing into an urban green core integrating natural landscapes, historical sites, and recreation."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Garden Features",
+        "content": "Spanning approximately 24 hectares, the park features expansive lawns, formal gardens, winding paths, and lake scenery as its core, complemented by vintage sculptures, commemorative plaques, and century-old trees.\n\nHome to Finland's oldest outdoor swimming pool (built 1912), Mini-City for children, and adventure playground — natural landscapes and recreational facilities blend perfectly. 19th century Nordic Romantic garden style, balancing English landscape natural wildness with French garden formal layouts, featuring smooth flowing lines and rich plant layering."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "Turku's urban green lung, the core gathering place for locals across generations, witnessing Finland's transformation from medieval times to modern era.\n\nThe Sacred Spring carries legends of Finland's 1155 baptism, serving as a spiritual symbol of Finnish national culture and representing Nordic outdoor lifestyle aesthetics. For centuries, Kupittaa Park has witnessed Turku's evolution from medieval town to modern city, transforming from exclusive royal noble territory to shared public space — today it remains an irreplaceable spiritual retreat for locals."
+      },
+      {
+        "id": "pool",
+        "title": "Outdoor Swimming Pool",
+        "content": "Finland's oldest outdoor swimming pool, built in 1912, remains the most popular summer facility. The pool sits adjacent to the lake, allowing swimmers to enjoy lake and mountain views simultaneously.\n\nOpen summer (June-August): 09:00-20:00. Admission: Adults €20, Students €15, Children €10. Check daily water temperature forecasts in advance and avoid peak hours."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Kupittaa Park (Kupittaanpuisto)",
+    "type": "Attraction Type",
+    "typeValue": "Urban Park, Historic Garden, Family Recreation, Outdoor Sports Center",
+    "country": "Country",
+    "countryValue": "Finland",
+    "city": "City",
+    "cityValue": "Turku",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+358 2 330 000",
+    "address": "Address",
+    "addressValue": "20520 Turku, Finland"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "park": "Park Opening",
+    "parkTime": "Open year-round, 24 hours, no access restrictions",
+    "pool": "Outdoor Pool & Play Facilities",
+    "poolSummer": "Summer (June-August): 09:00-20:00",
+    "poolWinter": "Winter Ice Rink (December-February): 10:00-18:00",
+    "exhibition": "Exhibition Halls & Historical Areas",
+    "exhibitionSummer": "Summer (April-October): 10:00-17:00",
+    "exhibitionWinter": "Winter (November-March): Weekends only",
+    "tip": "Visit on weekday mornings for fewer crowds and soft lighting, ideal for strolling and photography"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "park": "Public Park Areas",
+    "parkPrice": "Free admission, no ticket required",
+    "pool": "Outdoor Swimming Pool",
+    "adults": "Adults",
+    "adultsPrice": "€20",
+    "students": "Students",
+    "studentsPrice": "€15",
+    "children": "Children",
+    "childrenPrice": "€10",
+    "seniors": "Seniors",
+    "seniorsPrice": "€15",
+    "card": "Finland Travel Pass",
+    "cardPrice": "Can offset some venue fees, ideal for multi-city travelers"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromAirport": "From Turku Airport",
+    "fromAirportDesc": "Take airport bus or tram to city center, transfer to short-route bus directly to park entrance, approximately 25 minutes total. Airport rideshares can reach directly — ideal for luggage and group travel.",
+    "fromStation": "From Turku Central Station",
+    "fromStationDesc": "Take Tram Line 1 or short-route bus, arrive at park area stops within 10 minutes, 3-minute walk to entrance. Public transport runs frequently.",
+    "fromOldTown": "From Turku Old Town",
+    "fromOldTownDesc": "Walkable from Turku Old Town and Aura River waterfront — city pedestrian paths are well-connected, ideal for hiking串联打卡.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Public cycling stations available around the park, suitable for short trips. Park paths are gentle and comfortable for cycling.",
+    "dayPass": "Turku Public Transport Day Pass",
+    "dayPassDesc": "Purchase Turku public transport day pass for unlimited tram and bus rides, efficiently explore all city attractions."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Recommended to enter the park in early morning. Start from the main entrance, stroll along the central tree-lined path, visit the Sacred Spring, century-old trees and vintage sculptures, wander through gardens and lakeside, tour Mini-City and outdoor pool, finally relax on the lawn area. The entire route is relaxed — approximately 2 hours for pure sightseeing, half-day for deeper exploration.",
+    "steps": [
+      "Arrive at nearby public transport stop, walk to Kupittaa Park main entrance",
+      "Stroll along central tree-lined path, admire expansive lawns and lush tree landscapes",
+      "Visit the Sacred Spring area, learn about Finnish religious historical legends and cultural origins",
+      "Check in century-old trees and vintage sculptures, observe 19th century garden design details",
+      "Wander through garden paths, admire seasonal flower landscapes and horticultural designs",
+      "Stroll along lakeside, observe waterbirds and lake scenery up close",
+      "Tour Mini-City and adventure playground, experience family recreation atmosphere",
+      "Visit outdoor swimming pool area, learn about Finland's oldest pool's history",
+      "Relax at expansive lawn area, experience locals' daily picnic and relaxation",
+      "Exit through park side gate, connect to nearby Old Town and Aura River attractions"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Central Tree-Lined Path",
+        "desc": "Strong sense of depth, natural light through trees creates layered shadows — ideal for atmospheric panoramic shots"
+      },
+      {
+        "name": "Lakeside",
+        "desc": "Lake and trees as background, water creates natural reflections — clean and healing imagery"
+      },
+      {
+        "name": "Sacred Spring Area",
+        "desc": "Vintage stone spring paired with greenery, soft composition — suitable for cultural and landscape photography"
+      },
+      {
+        "name": "Century-Old Trees",
+        "desc": "Thick trunks and lush canopy as subjects — emphasizing weight of time and heritage"
+      },
+      {
+        "name": "Expansive Lawn",
+        "desc": "Blue sky and white clouds with vast green space in frame — simple and elegant, suitable for panoramas and portraits"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Kupittaa Garden Hotel",
+        "desc": "Vintage hotel within walking distance of the park, converted from historic building, windows overlook park scenery — quiet and comfortable",
+        "price": "~€120/night"
+      },
+      {
+        "name": "Turku Design Hotel",
+        "desc": "Nordic minimalist style accommodation near Turku Old Town — convenient transport, walkable to park and Aura River attractions",
+        "price": "~€100/night"
+      },
+      {
+        "name": "Old Town Boutique B&B",
+        "desc": "Vintage mansion guesthouse in Old Town alleyways — rich Central European vintage atmosphere, immersive local experience",
+        "price": "~€80/night"
+      },
+      {
+        "name": "Central Station Budget Stay",
+        "desc": "High value accommodation near Turku Central Station — convenient public transport, short trip to park",
+        "price": "~€60/night"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Kupittaa Park Through the Seasons",
+    "captions": [
+      "Kupittaa Park Panorama",
+      "Central Tree-Lined Path",
+      "Lakeside Scenery",
+      "Sacred Spring Area",
+      "Century-Old Trees",
+      "Outdoor Swimming Pool",
+      "Mini-City for Children",
+      "Lawn Recreation Area"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ming Zhang",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Absolutely beautiful! Like stepping into a Nordic fairytale world. Crystal-clear lake water, elegant swans gliding — everything so peaceful and wonderful."
+      },
+      {
+        "name": "Hua Li",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Finland's oldest park truly lives up to its reputation! The Sacred Spring legend is moving, century-old trees speak of history. Perfect for walking."
+      },
+      {
+        "name": "Fang Wang",
+        "date": "February 2026",
+        "rating": 4,
+        "text": "Winter ice rink is great! The free park access is very generous. Must come back in summer for swimming."
+      },
+      {
+        "name": "Wei Chen",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "Local-recommended treasure park! Very few people in early morning, lighting is absolutely stunning. Kids had so much fun at Mini-City."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "20520 Turku, Finland",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Kupittaa Park Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "turku": "Turun kaupunki",
+      "archipelago": "Visit Turku Archipelago",
+      "suomi": "suomi.fi",
+      "ymparisto": "Ympäristö",
+      "visitFinland": "Visit Finland"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Kupittaa Park",
+    "text": "Kupittaa Park is managed and maintained by the City of Turku, and is one of Finland's most important historical and cultural heritage sites.\n\nAs Finland's oldest planned urban park, Kupittaa Park has witnessed over 170 years of Turku's urban development. Today, the park is open to the public free of charge, serving as the core recreational space for Turku residents and an important window for visitors from around the world to learn about Finnish history and culture."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Turku Old Town", "url": "https://www.turku.fi"},
+      {"name": "Aura River", "url": "https://www.turku.fi"},
+      {"name": "Turku Castle", "url": "https://www.turku.fi"},
+      {"name": "Turku Cathedral", "url": "https://www.turku.fi"}
+    ],
+    "tours": [
+      {"name": "Turku City Tour", "url": "https://www.turku.fi"},
+      {"name": "Aura River Cruise", "url": "https://www.turku.fi"},
+      {"name": "Turku Walking Tour", "url": "https://www.turku.fi"},
+      {"name": "Finnish Sauna Experience", "url": "https://www.turku.fi"}
+    ]
+  }
+}
