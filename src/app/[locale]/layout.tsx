@@ -15,9 +15,9 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://kupittaapark.info';
+  const baseUrl = 'https://kupittaapark.com';
 
-  const zhUrl = `${baseUrl}/`;
+  const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 

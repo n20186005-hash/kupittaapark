@@ -40,15 +40,9 @@ export default function LanguageToggle() {
       segments.shift();
     }
     
-    // Construct new path
-    const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '/';
-    
-    // Navigate
-    if (next === routing.defaultLocale) {
-      router.push(pathWithoutLocale);
-    } else {
-      router.push(`/${next}${pathWithoutLocale === '/' ? '' : pathWithoutLocale}`);
-    }
+    // Construct new path with locale prefix
+    const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '';
+    router.push(`/${next}${pathWithoutLocale}`);
   }
 
   return (

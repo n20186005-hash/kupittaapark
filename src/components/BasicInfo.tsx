@@ -22,7 +22,7 @@ export default function BasicInfo() {
           <InfoCard title={t('country')} value={t('countryValue')} />
           <InfoCard title={t('city')} value={t('cityValue')} />
           <InfoCard title={t('googleRating')} value="4.6/5 (13,430)" />
-          <InfoCard title={t('phone')} value="+45 33 95 42 00" />
+          <InfoCard title={t('phone')} value="+3582330000" />
           <div className="md:col-span-2">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
