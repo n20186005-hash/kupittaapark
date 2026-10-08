@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Kuppisparken i Åbo (Kupittaanpuisto) – lekplatser, fågeldammen och hitta hit",
+    "description": "Upptäck Kuppisparken i Åbo: lekplatser, Seikkailupuisto, fågeldammen, bangolf och reseanvisningar. Tips för hela familjen."
+  },
+  "header": {
+    "home": "Startsida",
+    "gallery": "Bilder",
+    "reviews": "Omdömen",
+    "map": "Karta",
+    "backToHome": "Till startsidan"
+  },
+  "hero": {
+    "title": "Kuppisparken",
+    "subtitle": "Finlands äldsta och största stadspark i Åbo – fågeldammen, lekplatser, utomhusbad och bangolf",
+    "rating": "4.4 (5 221)",
+    "reviewCount": "5 221 omdömen",
+    "hours": "Öppet dygnet runt",
+    "openMaps": "Visa platsen"
+  },
+  "intro": {
+    "title": "Upptäck Kuppisparken",
+    "description": "Stig in i Kuppisparken och omfamnas av stillsam nordisk grönska – vida gräsmattor, gamla träd, en lugn sjö och slingrande stigar utan kommersiellt brus.\n\nMed sina cirka 24 hektar är parken Åbos största sammanhängande grönområde. Höjdpunkter är fågeldammen, lekplatsen och trafikparken Kupittaanlahte för barn, Seikkailupuisto, en multisportplan och Finlands äldsta utomhusbad från 1912.\n\nBesökare rör sig i lugnt tempo – löpare på stigarna, picknick på gräsmattorna, barn som leker. Den gamla källpaviljongen, de klassiska skulpturerna och minnesplattorna ger kulturellt djup. Här finns ingen brådska, bara att stanna upp och finna ro.",
+    "visitGuide": {
+      "title": "Praktiska tips",
+      "items": [
+        "Kom en vardagsmorgon – då är det lugnt och ljuset mjukt, idealiskt för promenader och fotografering",
+        "Parkens allmänna områden är gratis; utomhusbadet, bangolfen och idrottshallen tar separat avgift",
+        "På sommaren är myggen vanliga – förbered dig",
+        "Ta med egen matsäck för en avslappnad picknick på gräsmattan"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Vad parken erbjuder",
+      "items": [
+        "Finlands äldsta stadspark, grundad på 1820-talet",
+        "Finlands äldsta utomhusbad (1912)",
+        "Den heliga källan med dop traditionen från 1155",
+        "Kupittaanlahtes lekplats, trafikpark och Seikkailupuisto för familjer"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Kuppisparkens tjusning",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Kuppisparkens historia",
+        "content": "Kuppisparkens rötter sträcker sig till 1820-talet, då en promenad växte fram vid en badkälla. Under 1800- och 1900-talen utvecklades den till en offentlig stadspark – Åbo stad beskriver den i dag som Finlands äldsta stadspark.\n\nDen heliga källan bär på en tradition: enligt sägnen döpte biskop Henrik här år 1155 Finlands första kristna. I århundraden var platsen ett bad och en mötesplats med både religiöst och världsligt minne.\n\nDärefter har parken utvidgats flera gånger och fått utomhusbadet (1912), lekplatser och idrottsanläggningar. Så har den vuxit till ett grönområde som förenar natur, historia och rekreation."
+      },
+      {
+        "id": "architecture",
+        "title": "Trädgård och landskap",
+        "content": "På de cirka 24 hektaren utgör vida gräsmattor, formella trädgårdar, slingrande stigar och sjöutsikt kärnan, kompletterade av en gammal källpaviljong, klassiska skulpturer, minnesplattor och århundraden gamla träd.\n\nHär finns Finlands äldsta utomhusbad (1912), Kupittaanlahtes lekplats och Seikkailupuisto. Naturliga landskap och rekreationsanläggningar smälter samman, och planeringen balanserar öppen natur med strukturerad trädgård."
+      },
+      {
+        "id": "culture",
+        "title": "Kulturell betydelse",
+        "content": "Åbos stads gröna lunga och mötesplats för invånare i generationer, som har bevittnat Finlands förändring från medeltid till nutid.\n\nDen heliga källan bär dop traditionen från 1155 och är en andlig symbol för finsk nationalkultur och nordiskt uteliv. I århundraden har Kuppisparken sett Åbo utvecklas från medeltida stad till modern stad – från exklusiv badort till gemensam offentlig plats – och är fortfarande en oersättlig tillflyktsort för lokalbefolkningen."
+      },
+      {
+        "id": "pool",
+        "title": "Utomhusbadet",
+        "content": "Finlands äldsta utomhusbad, öppnat 1912, är fortfarande den populäraste sommaranläggningen. Säsongen 2026 var 5.6.–13.9. och är nu avslutad; kommande säsongs datum publiceras av Åbo stad.\n\nBadet har en separat entréavgift som staden fastställer, och aktuella priser finns på turku.fi/kupittaan-maauimala. Badet ligger vid parkens kant så att man kan simma omgiven av grönska."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundinformation",
+    "officialName": "Officiellt namn",
+    "officialNameValue": "Kupittaanpuisto (Kuppisparken, Kupittaa Park)",
+    "type": "Typ av plats",
+    "typeValue": "Stadspark, historisk park, utflyktsmål för familjer, utomhusidrottsområde",
+    "country": "Land",
+    "countryValue": "Finland",
+    "city": "Stad",
+    "cityValue": "Åbo (Turku)",
+    "googleRating": "Google-betyg",
+    "googleRatingValue": "4.4 / 5 (5 221)",
+    "phone": "Telefon",
+    "phoneValue": "+358 2 330 000",
+    "address": "Adress",
+    "addressValue": "Kupittaankatu 2, 20520 Åbo, Finland"
+  },
+  "hours": {
+    "title": "Öppettider",
+    "park": "Parken",
+    "parkTime": "Öppen året om, dygnets alla timmar, inga grindar",
+    "pool": "Utomhusbad och lekplatser",
+    "poolSummer": "Säsong 2026: 5.6.–13.9. (avslutad)",
+    "poolWinter": "Vintertid skridskobana (dec–feb) när vädret tillåter",
+    "exhibition": "Idrottsanläggningar och planer",
+    "exhibitionSummer": "Öppet under säsongen – se Åbo stad",
+    "exhibitionWinter": "Begränsat på vintern",
+    "tip": "Kom en vardagsmorgon – då är det lugnt och ljuset mjukt, idealiskt för promenader"
+  },
+  "tickets": {
+    "title": "Priser",
+    "park": "Parkens allmänna områden",
+    "parkPrice": "Gratis, ingen biljett",
+    "pool": "Utomhusbadet",
+    "adults": "Vuxna",
+    "adultsPrice": "Se Åbo stads sida",
+    "students": "Studenter",
+    "studentsPrice": "Se Åbo stads sida",
+    "children": "Barn",
+    "childrenPrice": "Se Åbo stads sida",
+    "seniors": "Pensionärer",
+    "seniorsPrice": "Se Åbo stads sida",
+    "card": "Betalningsinfo",
+    "cardPrice": "Parken är gratis; endast badet, bangolfen och idrottshallen tar avgift"
+  },
+  "transport": {
+    "title": "Hitta hit",
+    "fromAirport": "Från Åbo flygplats",
+    "fromAirportDesc": "Ta flygbussen till Åbo centrum och fortsätt med Föli-buss till Kuppis (cirka 25–30 minuter totalt). Taxi är det enklaste för grupper eller bagage.",
+    "fromStation": "Från Åbo järnvägsstation",
+    "fromStationDesc": "Från Åbo järnvägsstation går Föli-bussar; flera linjer stannar nära parken, resan tar cirka 10 minuter och promenaden är kort. Turerna går tätt.",
+    "fromOldTown": "Från Åbo centrum och Aura å",
+    "fromOldTownDesc": "Kuppis ligger inom promenadavstånd från Åbo centrum och Aura å via väl sammanlänkade lättrafikleder – passar för en promenadtur.",
+    "cycling": "Cykling",
+    "cyclingDesc": "Kring parken finns offentliga cykelstationer som passar kortare resor. Parkens stigar är jämna och bekväma att cykla på.",
+    "dayPass": "Dagbiljett för Åbo regiontrafik",
+    "dayPassDesc": "Köp en dagbiljett för Åbo regiontrafik och res obegränsat med Föli-bussar – utforska stadens sevärdheter effektivt."
+  },
+  "route": {
+    "title": "Rekommenderad rutt",
+    "overview": "Vi rekommenderar ankomst på morgonen. Börja vid huvudentrén, gå längs den centrala allén, besök den heliga källan, se gamla träd och källpaviljongen, vandringen genom trädgårdarna och sjökanten, utforska lekplatsen och utomhusbadet och vila till sist på gräsmattan. Rutten är avslappnad – cirka 2 timmar för att se, en halv dag för djupare upplevelse.",
+    "steps": [
+      "Ankom till en hållplats i närheten och gå till Kuppisparkens huvudentré",
+      "Promenera längs den centrala allén och beundra vida gräsmattor och träd",
+      "Besök den heliga källan och lär dig om finsk religiös historia och kultur",
+      "Se århundraden gamla träd och den historiska källpaviljongen",
+      "Vandra trädgårdsstigarna och följ årstidernas blomning",
+      "Gå längs sjökanten och observera fågellivet och sjölandskapet",
+      "Utforska lekplatsen och Seikkailupuisto",
+      "Besök utomhusbadets område och lär dig om Finlands äldsta bads historia",
+      "Vila på den vida gräsmattan och upplev lokalbefolkningens picknickvardag",
+      "Lämna genom en sidoingång och fortsätt mot centrum och Aura å"
+    ]
+  },
+  "photoSpots": {
+    "title": "Fototips",
+    "spots": [
+      {
+        "name": "Den centrala allén",
+        "desc": "Stark djupverkan, ljus genom träden skapar lagrade skuggor – idealiskt för stämningsfulla panoramabilder"
+      },
+      {
+        "name": "Sjökanten",
+        "desc": "Sjön och träden som bakgrund, vattnet skapar naturlig reflektion – rent och lugnt motiv"
+      },
+      {
+        "name": "Den heliga källans område",
+        "desc": "Gammal stenkälla och grönska, mjuk komposition – passar kultur- och landskapsfoto"
+      },
+      {
+        "name": "Århundraden gamla träd",
+        "desc": "Tjocka stammar och frodig krona som motiv – betonar tidens och arvets tyngd"
+      },
+      {
+        "name": "Den vida gräsmattan",
+        "desc": "Blå himmel och vita moln med vid grönska i bilden – enkel och elegant, passar panoramabilder och porträtt"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Boende nära Kuppis",
+    "hotels": [
+      {
+        "name": "Kuppis och Österlånggatan",
+        "desc": "Närmast parken, kort promenad längs lättrafikleder – passar idrotts- och evenemangsbesök.",
+        "price": "Se bokningssidor"
+      },
+      {
+        "name": "Åbo centrum",
+        "desc": "Runt Salutorget finns gott om hotell, restauranger och butiker; några minuter med buss eller till fots.",
+        "price": "Se bokningssidor"
+      },
+      {
+        "name": "Aura å-stranden och hamnen",
+        "desc": "Lugnt läge vid ån, lätt att nå längs åstranden eller via Salutorget.",
+        "price": "Se bokningssidor"
+      },
+      {
+        "name": "Universitet och campusområden",
+        "desc": "Prisvärt boende och bra förbindelser; kort promenad till parken.",
+        "price": "Se bokningssidor"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Bildgalleri",
+    "subtitle": "Kuppisparken under olika årstider",
+    "captions": [
+      "Panorama över Kuppisparken",
+      "Den centrala allén",
+      "Sjökanten",
+      "Den heliga källans område",
+      "Århundraden gamla träd",
+      "Utomhusbadet",
+      "Lekplatsen",
+      "Gräsmattan"
+    ],
+    "viewAll": "Visa i Google Maps",
+    "showAll": "Visa alla bilder",
+    "showLess": "Visa färre"
+  },
+  "reviews": {
+    "title": "Besökarnas omdömen",
+    "declaration": "Kuppisparken har ett Google Maps-betyg på 4.4 / 5 med totalt 5 221 omdömen (kontrollerat 10/2026). Enskilda omdömen kan läsas på Google Maps via länken nedan.",
+    "moreReviews": "Läs alla omdömen på Google Maps",
+    "items": []
+  },
+  "mapSection": {
+    "title": "Hitta hit",
+    "subtitle": "Kupittaankatu 2, 20520 Åbo, Finland",
+    "openMaps": "Öppna i Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Oberoende reseinformationsprojekt om Kuppisparken · Alla rättigheter förbehållna.",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "cookies": "Cookieinställningar",
+    "officialResourcesTitle": "Officiella och övriga källor",
+    "officialLinks": {
+      "turku": "Åbo stad",
+      "archipelago": "Visit Turku",
+      "suomi": "suomi.fi",
+      "ymparisto": "Miljö",
+      "visitFinland": "Visit Finland"
+    },
+    "disclaimer": "Denna webbplats är ett oberoende tredjepartsprojekt för reseinformation. Vi är inte anslutna till Åbo stad eller någon annan myndighet. Aktuella priser och öppettider måste alltid bekräftas hos tjänsteleverantören."
+  },
+  "privacy": {
+    "title": "Integritetspolicy",
+    "lastUpdated": "Uppdaterad 10/2026",
+    "sections": [
+      {
+        "heading": "1. Insamling av uppgifter",
+        "content": "Vi samlar inte in personuppgifter från besökare. Webbplatsen har inget kontaktformulär som lagrar personuppgifter."
+      },
+      {
+        "heading": "2. Användning av uppgifter",
+        "content": "Den begränsade information vi hanterar används endast för att tillhandahålla och underhålla webbplatsen. Vi säljer eller delar inte personuppgifter med tredje part för marknadsföring."
+      },
+      {
+        "heading": "3. Cookies och spårning",
+        "content": "Vi använder cookies och liknande tekniker endast för grundläggande funktioner och, med samtycke, anonym analys. Du kan inaktivera cookies i din webbläsare."
+      },
+      {
+        "heading": "4. Datasäkerhet",
+        "content": "Vi tillämpar rimliga åtgärder för att skydda den data vi behandlar, men ingen internetsändning är helt säker."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Användarvillkor",
+    "lastUpdated": "Uppdaterad 10/2026",
+    "sections": [
+      {
+        "heading": "1. Godkännande av villkor",
+        "content": "Genom att använda webbplatsen godkänner du dessa villkor. Om du inte godkänner dem får du inte använda webbplatsen."
+      },
+      {
+        "heading": "2. Användning av tjänsten",
+        "content": "Denna webbplats är ett oberoende tredjepartsprojekt för reseinformation. Informationen ges för allmänna informationsändamål."
+      },
+      {
+        "heading": "3. Immateriella rättigheter",
+        "content": "Allt innehåll på webbplatsen, inklusive texter och logotyper, tillhör webbplatsens ägare om inte annat anges."
+      },
+      {
+        "heading": "4. Ansvarsbegränsning",
+        "content": "Vi ansvarar inte för skador som uppstår vid användning av webbplatsen eller dess information. Kritiska uppgifter bekräftas alltid hos tjänsteleverantören."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookieinställningar",
+    "description": "Hantera dina cookieinställningar.",
+    "essential": {
+      "title": "Nödvändiga cookies",
+      "description": "Krävs för webbplatsens grundfunktioner.",
+      "badge": "Alltid aktiva"
+    },
+    "analytics": {
+      "title": "Analyscookies",
+      "description": "Hjälper oss förstå hur webbplatsen används."
+    },
+    "marketing": {
+      "title": "Marknadsföringscookies",
+      "description": "Används för att spåra besökare på olika webbplatser."
+    },
+    "save": "Spara inställningar",
+    "saved": "Inställningar sparade!"
+  },
+  "officialManagement": {
+    "title": "Om Kuppisparken",
+    "text": "Kuppisparken sköts och underhålls av Åbo stad. Enligt staden är det Finlands äldsta stadspark, med en historia som börjar på 1820-talet.\n\nI dag är parken gratis öppen för allmänheten och utgör turkarnas rekreationscentrum och ett viktigt fönster för besökare att lära sig om finsk historia och natur. Parkens skötsel, lekplatsverksamhet och utomhusbadets säsong beslutas av stadens idrotts- och grönområdestjänster; bangolfen och Seikkailupuisto drivs av separata aktörer."
+  },
+  "recommendations": {
+    "title": "Upplev mer",
+    "attractionsTitle": "Närliggande sevärdheter",
+    "toursTitle": "Rekommenderade turer och aktiviteter",
+    "attractions": [
+      {
+        "name": "Åbo centrum",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Aura å",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Åbo slott",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Åbo domkyrka",
+        "url": "https://www.turku.fi"
+      }
+    ],
+    "tours": [
+      {
+        "name": "Åbo stadsrundtur",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Aura å-kryssning",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Åbo promenadvisning",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Finsk bastuupplevelse",
+        "url": "https://www.turku.fi"
+      }
+    ]
+  },
+  "topics": {
+    "links": [
+      {
+        "slug": "leikkipuisto",
+        "title": "Lekplatser & familj",
+        "desc": "Kupittaanlahti lekplats, trafikpark och Äventyrsparken."
+      },
+      {
+        "slug": "minigolf",
+        "title": "Kupittaanpuisto minigolf",
+        "desc": "Bananas plats, säsong och priser."
+      },
+      {
+        "slug": "pysakointi",
+        "title": "Parkering & bilresa",
+        "desc": "Var du parkerar och hur du tar dig dit med bil."
+      },
+      {
+        "slug": "tapahtumat",
+        "title": "Evenemang i parken",
+        "desc": "Åbos sommarevenemangsplats och var du hittar programmet."
+      }
+    ],
+    "leikkipuisto": {
+      "metaTitle": "Kupittaanpuistos lekplatser – Kupittaanlahti & trafikpark, Åbo",
+      "metaDescription": "Kupittaanlahti lekplats, trafikpark och Äventyrsparken i Kupittaanpuisto i Åbo: plats, öppettider, åldersrekommendationer och familjetips.",
+      "title": "Lekplatser och familjefaciliteter",
+      "intro": "Kupittaanpuisto är ett av Åbos bästa familjemål eftersom flera anläggningar för olika åldrar ligger inom samma område. Den av staden drivna lekplatsen Kupittaanlahti ligger längs gångstråket vid Kupittaankatu nära parkens västra ände. I närheten finns även Äventyrsparken (Seikkailupuisto), som drivs av barnkulturcentret Färi, och trafikparken där barn övar trafikregler i miniatyr.",
+      "blocks": [
+        {
+          "title": "Kupittaanlahti lekplats",
+          "content": "Adress: Kupittaankatu 2, 20520 Åbo. Lekplatsen ligger längs gångstråket vid början av Kupittaankatu, och på vardagsmorgnar finns stadens ledda lekverksamhet. Övrig tid finns utrustningen tillgänglig som annars i parken, och området är öppet och avgiftsfritt."
+        },
+        {
+          "title": "Äventyrsparken (Seikkailupuisto)",
+          "content": "Driven av barnkulturcentret Färi i parkens södra del på den fd trädgårdsskolans område. Utformad för barn och familjer; Färi ordnar året-runt-verksamhet för småbarnspedagogikgrupper och skolor. Öppettiderna varierar med säsongen – kolla Färis sidor."
+        },
+        {
+          "title": "Trafikparken",
+          "content": "I trafikparken övar barn trafikregler i en säker miljö: miniatyrsträckor kan köras på balanscykel eller pedalbil. Den har en egen webbplats och öppettider; kolla i förväg."
+        },
+        {
+          "title": "Fågeldammen och öppna gräsmattor",
+          "content": "Fågeldammen är ett höjdpunkt med en tittstig och bänkar. Öppna gräsmattor passar bollspel och picknick; den jämna stigen är enkel med barnvagn. Det finns en offentlig toalett i parken."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Var ligger lekplatsen?",
+          "a": "Kupittaanlahti lekplats ligger på Kupittaankatu 2, 20520 Åbo, längs gångstråket vid början av Kupittaankatu."
+        },
+        {
+          "q": "När är den öppen?",
+          "a": "Ledda aktiviteter på vardagsmorgnar; utrustningen tillgänglig under parkens normala öppettider."
+        },
+        {
+          "q": "Är den avgiftsfri?",
+          "a": "Lekplatsen och parken är avgiftsfria. Äventyrsparken och trafikparken kan ha egen verksamhet; kolla deras sidor."
+        },
+        {
+          "q": "Lämplig på vintern?",
+          "a": "Ja, öppen året runt; stigarna kan vara isiga."
+        },
+        {
+          "q": "Toaletter och picknick?",
+          "a": "Offentlig toalett i parken; gräsmattor och bänkar passar picknick."
+        }
+      ]
+    },
+    "minigolf": {
+      "metaTitle": "Kupittaanpuisto minigolf – Plats, säsong & priser, Åbo",
+      "metaDescription": "Kupittaanpuisto minigolf i Åbo: adress Kupittaankatu 10, säsong, priser och hur den skiljer sig från den avgiftsfria parken.",
+      "title": "Kupittaanpuisto minigolf",
+      "intro": "Kupittaanpuisto minigolf är en separat attraktion inne i parken, driven av en egen operatör. Den ingår inte i stadens avgiftsfria parkutbud, så banan har egen säsong, öppettider och priser. Banan ligger på Kupittaankatu 10, en kort promenad från Kupittaanlahti lekplats.",
+      "blocks": [
+        {
+          "title": "Plats",
+          "content": "Kupittaankatu 10, Åbo, inne i Kupittaanpuisto, en kort promenad från gångstråket. I närheten: lekplats, Äventyrsparken, fågeldammen."
+        },
+        {
+          "title": "Säsong och öppettider",
+          "content": "Säsongsöppen: öppnar på våren, stänger på hösten, inget vid regn. 2026 pågick säsongen till 27 september, då banan var öppen lördagar och söndagar 10–21. Tiderna ändras med säsongen, så kolla aktuella tider på minigolfturku.fi."
+        },
+        {
+          "title": "Priser",
+          "content": "Standardutrustning ingår i greenfee; tävlingsbollar kan hyras mot extra avgift. Priserna delas upp i vuxna, barn och ungdomar, med rabatter för vissa grupper, och ett familjepaket finns. Exakta priser ändras med säsongen, så kolla aktuell prislista hos operatören."
+        },
+        {
+          "title": "Service på plats",
+          "content": "Italiensk Minetti-glass säljs vid banan, med laktosfria, glutenfria och veganska alternativ. Grupper över tio personer ombeds anmäla sig i förväg per e-post; mindre grupper behöver ingen bokning."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Var ligger banan?",
+          "a": "Banans adress är Kupittaankatu 10, Åbo, inne i Kupittaanpuisto och en kort promenad från Kupittaanlahti lekplats."
+        },
+        {
+          "q": "Vem driver den?",
+          "a": "Den drivs av den fristående operatören Kupittaanpuisto Minigolf (Minigolf Turku), inte av Åbo stad. Priser och öppettider ansvarar operatören för."
+        },
+        {
+          "q": "Är minigolfen avgiftsfri som parken?",
+          "a": "Nej. Parken är avgiftsfri, men minigolfen har en egen spelavgift som varierar med åldersgrupp. Aktuella priser står på operatörens sida."
+        },
+        {
+          "q": "När är banan öppen?",
+          "a": "Banan är säsongsöppen från vår till höst. Öppnandet har nyligen koncentrerats till helger, men tiderna varierar med säsongen – kolla dem på minigolfturku.fi."
+        },
+        {
+          "q": "Behöver grupper boka?",
+          "a": "Grupper över tio personer anmäler sig i förväg per e-post. Mindre sällskap kan bara komma."
+        }
+      ]
+    },
+    "pysakointi": {
+      "metaTitle": "Parkering vid Kupittaanpuisto – Bilresa & var du parkerar, Åbo",
+      "metaDescription": "Var du parkerar vid Kupittaanpuisto i Åbo: gatuparkering, parkeringsplatser vid idrottsanläggningarna, stegfri tillgång och kollektivtrafikalternativet.",
+      "title": "Parkering och ankomst med bil",
+      "intro": "Kupittaanpuisto ligger i stadsdelen Kupittaa, där det finns både gatuparkering och parkeringsplatser som betjänar Kupittaas idrotts- och evenemangsområden. De flesta hittar en plats snabbt på vardagar, men under stora evenemang och sommarens idrottsdagar fylls platserna tidigt. Denna guide förklarar var platserna finns och när det är bättre att ta bussen.",
+      "blocks": [
+        {
+          "title": "Gatuparkering",
+          "content": "Gatorna som omger parken – bland dem Kupittaankatu – erbjuder flest platser. De ligger bekvämt från Kupittaanlahti lekplats, fågeldammen och Äventyrsparken. Kolla Åbos aktuella avgifter, zoner och tidsgränser innan avfärd."
+        },
+        {
+          "title": "Parkeringsplatser vid idrottsanläggningarna",
+          "content": "Det finns parkeringsplatser vid Kupittaa idrottshall, bollhall, multifunktionsplan och fältområden. De är det bästa alternativet om du ska idrotta eller på evenemang, eftersom promenadvägen till målet förblir kort."
+        },
+        {
+          "title": "Stegfri tillgång",
+          "content": "Gångstråket längs Kupittaankatu genom parken är plant och passar rullstolar, rollatorer och barnvagnar. De mest tillgängliga rutterna finns vid parkens västra ände, där Kupittaanlahti lekplats ligger."
+        },
+        {
+          "title": "När du tar bussen istället",
+          "content": "På evenemangsdagar och varma sommarhelger fylls platserna snabbt. Föli kör flera busslinjer till Kupittaa-området och resan från centrum tar bara några minuter – ofta snabbare än att leta efter en parkeringsplats."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Är parkeringen vid Kupittaanpuisto avgiftsfri?",
+          "a": "Det beror på platsen och Åbos aktuella parkeringsregler. Kolla aktuella avgifter och zoner i stadens parkeringsinformation."
+        },
+        {
+          "q": "Var är parkeringen närmast lekplatsen?",
+          "a": "Gatorna längs och runt Kupittaankatu ligger närmast Kupittaanlahti lekplats (Kupittaankatu 2) och fågeldammen."
+        },
+        {
+          "q": "Hur tar jag mig till parken stegfritt?",
+          "a": "Gångstråket längs Kupittaankatu är plant och passar rullstolar och barnvagnar. Den stegfria rutten finns vid parkens västra ände."
+        },
+        {
+          "q": "När ska jag lämna bilen hemma?",
+          "a": "Under ett stort evenemang eller en varm sommarhelg. Fölis bussar är då oftast det snabbare alternativet, och du slipper tiden det tar att leta efter en plats."
+        },
+        {
+          "q": "Kan jag komma med taxi?",
+          "a": "Ja. Parkering och avstigning är enkla längs gatorna som omger parken, och promenaden till sevärdheterna är kort."
+        }
+      ]
+    },
+    "tapahtumat": {
+      "metaTitle": "Evenemang i Kupittaanpuisto – Åbos program & kalender",
+      "metaDescription": "Kupittaanpuistos mest kända evenemang och var du hittar denna säsongs program i Åbo.",
+      "title": "Evenemang i Kupittaanpuisto",
+      "intro": "Kupittaanpuistos vidsträckta gräsmattor gör den till en av Åbos viktigaste utomhusevenemangsplatser. Stora publikevenemang har hållits här genom åren, och särskilt på sommaren fylls området av musik och sammankomster. Denna webbplats upprätthåller ingen egen evenemangskalender, utan hänvisar till källor som har det aktuella programmet.",
+      "blocks": [
+        {
+          "title": "Nya musikfestivalen (New Music Festival)",
+          "content": "Kupittaanpuisto har varit huvudplats för Nya musikfestivalen sedan 2008. Festivalen för flera scener och en stor publik till parken, så områdets användning under festivalen skiljer sig från det normala."
+        },
+        {
+          "title": "Publikevenemang och Botellón-traditionen",
+          "content": "Sedan 2009 har parken varit värd för Botellón-picknicken, som ordnas informellt via sociala medier utan officiell arrangör. Nationella evenemang har också hållits här: den evangeliska festivalen 2012 drog cirka 12 500 besökare och Yles sommarevenemang 2025 cirka 48 500 besökare."
+        },
+        {
+          "title": "Vardagligt parkliv – sport och träning",
+          "content": "Även utan stora evenemang är Kupittaanpuisto i ständig användning: multifunktionsplanen, konstgräsplanerna, finska pesäpallo-fälten, pétanque-planerna, basketplanen, beachvolley och konditions-trappor formar vardagen. På sommaren är utrustningshyran vid multifunktionsplanen avgiftsfri."
+        },
+        {
+          "title": "Var du hittar det aktuella programmet",
+          "content": "Vi publicerar ingen egen evenemangskalender eftersom vi inte kan garantera att den hålls aktuell. Kolla säsongens program på Åbo stads och Visit Turku-sidorna samt varje festivals egna sidor."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Vilka evenemang hålls i Kupittaanpuisto?",
+          "a": "Mest kända är Nya musikfestivalen, som parken varit huvudplats för sedan 2008, tillsammans med olika publikevenemang och picknickar. Programmet varierar från år till år."
+        },
+        {
+          "q": "Har denna webbplats en evenemangskalender?",
+          "a": "Nej. Vi upprätthåller ingen egen kalender eftersom vi inte kan garantera att den hålls aktuell. Kolla programmet på Åbo stads, Visit Turku och arrangörernas egna sidor."
+        },
+        {
+          "q": "Hur tar jag mig till stora evenemang?",
+          "a": "Fölis bussar trafikerar Kupittaa-området på flera linjer. Under stora evenemang är kollektivtrafiken oftast det bästa alternativet eftersom parkeringsplatserna fylls snabbt."
+        },
+        {
+          "q": "Kostar evenemangen?",
+          "a": "Det beror på evenemanget. Vissa parkevenemang är avgiftsfria och andra biljettbelagda. Kolla alltid priser på arrangörens egna sida."
+        },
+        {
+          "q": "Kan jag besöka parken på en evenemangsdag för andra syften?",
+          "a": "Vanligtvis ja, men vissa områden kan vara reserverade för arrangören. Kolla evenemangets uppgifter i förväg om du kommer för att motionera eller besöka med barn."
+        }
+      ]
+    },
+    "faqTitle": "Vanliga frågor",
+    "guidesTitle": "Guider & praktisk info",
+    "readMore": "Läs guiden"
+  }
+}

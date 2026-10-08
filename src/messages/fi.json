@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "title": "Kupittaanpuisto Turku – Tekemistä, leikkipuistot ja saapuminen",
+    "description": "Tutustu Kupittaanpuistoon Turussa: leikkipuistot, Seikkailupuisto, lintulammikko, minigolf ja saapumisohjeet. Vinkit koko perheelle."
+  },
+  "header": {
+    "home": "Etusivu",
+    "gallery": "Kuvat",
+    "reviews": "Arviot",
+    "map": "Kartta",
+    "backToHome": "Takaisin etusivulle"
+  },
+  "hero": {
+    "title": "Kupittaanpuisto",
+    "subtitle": "Suomen vanhin ja laajin kaupunkipuisto Turussa – lintulammikko, leikkipuistot, maauimala ja minigolf",
+    "rating": "4.4 (5 221)",
+    "reviewCount": "5 221 arviota",
+    "hours": "Avoinna ympäri vuorokauden",
+    "openMaps": "Näytä sijainti"
+  },
+  "intro": {
+    "title": "Tutustu Kupittaanpuistoon",
+    "description": "Astu Kupittaanpuistoon ja ympäröi itsesi rauhallisella pohjoismaisella viheriöllä – avarat nurmikentät, vanha puusto, tyyni järvi ja kiemurtelevat polut ilman kaupallista hälinää.\n\nNoin 24 hehtaarin kokoisena puisto on Turun laajin yhtenäinen viheralue. Kohokohtiin kuuluvat lintulammikko, lapsille tarkoitettu Kupittaanlähteen leikkipaikka ja liikennepuisto, Seikkailupuisto, monitoimikenttä sekä vuonna 1912 avattu Suomen vanhin ulkouimala.\n\nKävijät liikkuvat verkkaiseen tahtiin – juoksijat poluilla, pikniköijät nurmikentillä, lapset leikkimässä. Vanha lähdepaviljonki, vanhat veistokset ja muistolaatat tuovat mukaan kulttuurista syvyyttä. Täällä ei ole kiirettä, vain rauhoittumista ja tasapainon löytämistä.",
+    "visitGuide": {
+      "title": "Käytännön vinkit",
+      "items": [
+        "Tule arkipäivän aamuna – silloin on rauhallisempaa ja valo on pehmeä, ihanteellinen kävelyyn ja kuvaamiseen",
+        "Puiston yleiset alueet ovat maksuttomia; uimala, minigolf ja urheiluhalli veloittavat erikseen",
+        "Kesällä hyttyset ovat yleisiä – varaudu niihin",
+        "Ota mukaan omat eväät rentoon piknikkiin nurmikentällä"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Mitä puistosta löytyy",
+      "items": [
+        "Suomen vanhin kaupunkipuisto, perustettu 1820-luvulla",
+        "Suomen vanhin ulkouimala (1912)",
+        "Pyhään lähteeseen liittyvä 1155 vuoden kasteperinne",
+        "Kupittaanlähteen leikkipaikka, liikennepuisto ja Seikkailupuisto perheille"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Kupittaanpuiston viehätys",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Kupittaanpuiston historia",
+        "content": "Kupittaanpuiston juuret ulottuvat 1820-luvulle, jolloin kylpylälähteen viereen rakennettiin kävelytie. 1800- ja 1900-luvuilla siitä kehittyi yleisölle avoin kaupunkipuisto – Turun kaupunki kuvaa sitä nykyään Suomen vanhimmaksi kaupunkipuistoksi.\n\nPuiston pyhä lähde liittyy perimätietoon: tarinan mukaan piispa Henrik kastoi täällä vuonna 1155 Suomen ensimmäiset kristityt. Vuosisatojen ajan paikka oli kylpylä ja kokoontumispaikka, joka kantaa sekä uskonnollista että maallista muistia.\n\nSen jälkeen puistoa on laajennettu useasti, ja siihen on lisätty ulkouimala (1912), lasten leikkipaikat ja urheilutilat. Näin siitä on kasvanut viheralue, joka yhdistää luonnon, historian ja virkistyksen."
+      },
+      {
+        "id": "architecture",
+        "title": "Puutarha ja maisema",
+        "content": "Noin 24 hehtaarin laajuisessa puistossa ovat ydinauksena avarat nurmikentät, muodolliset puutarhat, kiemurtelevat polut ja järvimaisema. Niitä täydentävät vanha lähdepaviljonki, vanhat veistokset, muistolaatat ja vuosisatoja vanhat puut.\n\nAlueella on Suomen vanhin ulkouimala (1912), Kupittaanlähteen leikkipaikka ja Seikkailupuisto. Luonnonmaisema ja virkistysrakenteet sulautuvat yhteen, ja suunnittelu tasapainottaa avointa luonnonviherryttä ja jäsenneltyä puutarhaa."
+      },
+      {
+        "id": "culture",
+        "title": "Kulttuurinen merkitys",
+        "content": "Turun kaupunkilaisen viherkeuhko ja sukupolvien kokoontumispaikka, joka on todistanut Suomen muutoksen keskiajalta nykyaikaan.\n\nPyhä lähde kantaa 1155 vuoden kasteperinnettä, joka on suomalaisen kansalliskulttuurin ja pohjoismaisen ulkoiluelämäntavan hengellinen symboli. Vuosisatojen ajan Kupittaanpuisto on nähnyt Turun kehityksen keskiaikaisesta kaupungista moderniksi kaupungiksi – yksityisestä kylpyläalueesta jaetuksi julkiseksi tilaksi – ja on yhä korvaamaton paikka kaupunkilaisille."
+      },
+      {
+        "id": "pool",
+        "title": "Ulkouimala",
+        "content": "Suomen vanhin ulkouimala, joka avattiin vuonna 1912, on edelleen suosituin kesäkohde. Vuonna 2026 kausi oli 5.6.–13.9. ja se on nyt päättynyt; seuraavan kauden ajankohdat julkaisee Turun kaupunki.\n\nUimalassa on erillinen pääsymaksu, jonka kaupunki määrittää, ja ajantasaiset hinnat löytyvät osoitteesta turku.fi/kupittaan-maauimala. Uimala sijaitsee puiston laidalla, joten uiminen onnistuu vihreän ympäristön äärellä."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Perustiedot",
+    "officialName": "Virallinen nimi",
+    "officialNameValue": "Kupittaanpuisto (Kupittaa Park, Kuppisparken)",
+    "type": "Kohteen tyyppi",
+    "typeValue": "Kaupunkipuisto, historiallinen puisto, perheiden retkikohde, ulkoliikunta-alue",
+    "country": "Maa",
+    "countryValue": "Suomi",
+    "city": "Kaupunki",
+    "cityValue": "Turku",
+    "googleRating": "Google-arvio",
+    "googleRatingValue": "4.4 / 5 (5 221)",
+    "phone": "Puhelin",
+    "phoneValue": "+358 2 330 000",
+    "address": "Osoite",
+    "addressValue": "Kupittaankatu 2, 20520 Turku, Suomi"
+  },
+  "hours": {
+    "title": "Aukioloajat",
+    "park": "Puisto",
+    "parkTime": "Avoinna ympäri vuoden, 24 h, ei portteja",
+    "pool": "Ulkouimala ja leikkipaikat",
+    "poolSummer": "Kausi 2026: 5.6.–13.9. (päättynyt)",
+    "poolWinter": "Talvella luistelurata (joulu–helmikuu) sään salliessa",
+    "exhibition": "Liikuntatilat ja kentät",
+    "exhibitionSummer": "Kauden aikana avoinna – katso Turun kaupunki",
+    "exhibitionWinter": "Talvella rajoitetusti",
+    "tip": "Tule arkipäivän aamuna – silloin on rauhallisempaa ja valo pehmeä, ihanteellinen kävelyyn"
+  },
+  "tickets": {
+    "title": "Maksut",
+    "park": "Puiston yleiset alueet",
+    "parkPrice": "Maksuton, ei lippua",
+    "pool": "Ulkouimala",
+    "adults": "Aikuiset",
+    "adultsPrice": "Katso Turun kaupungin sivu",
+    "students": "Opiskelijat",
+    "studentsPrice": "Katso Turun kaupungin sivu",
+    "children": "Lapset",
+    "childrenPrice": "Katso Turun kaupungin sivu",
+    "seniors": "Eläkeläiset",
+    "seniorsPrice": "Katso Turun kaupungin sivu",
+    "card": "Maksuhuomio",
+    "cardPrice": "Puisto on maksuton; vain uimala, minigolf ja urheiluhalli veloittavat"
+  },
+  "transport": {
+    "title": "Saapuminen",
+    "fromAirport": "Turun lentoasemalta",
+    "fromAirportDesc": "Ota lentoasemabussi Turun keskustaan ja jatka Föli-bussilla Kupittaalle (yhteensä noin 25–30 minuuttia). Taksi on yksinkertaisin vaihtoehto matkatavaroiden tai ryhmän kanssa.",
+    "fromStation": "Turun rautatieasemalta",
+    "fromStationDesc": "Turun rautatieasemalta kulkee Föli-bussi; useat linjat pysähtyvät lähellä puistoa, matka kestää noin 10 minuuttia ja kävely on lyhyt. Vuoroväli on tiheä.",
+    "fromOldTown": "Turun keskustasta ja Aurajoelta",
+    "fromOldTownDesc": "Kupittaa on kävelymatkan päässä Turun keskustasta ja Aurajoen rannasta hyvin yhdistettyjen kevyen liikenteen väylien kautta – sopii kävelykierrokseen.",
+    "cycling": "Pyöräily",
+    "cyclingDesc": "Puiston ympärillä on julkisia pyöräasemia, jotka sopivat lyhyisiin matkoihin. Puiston polut ovat tasaiset ja mukavat pyöräillä.",
+    "dayPass": "Turun seudun liikenteen päivälippu",
+    "dayPassDesc": "Osta Turun seudun liikenteen päivälippu ja matkusta rajatta Föli-busseilla – tutustu tehokkaasti kaupungin nähtävyyksiin."
+  },
+  "route": {
+    "title": "Suositeltu reitti",
+    "overview": "Suosittelemme saapumista aamulla. Aloita pääsisäänkäynniltä, kävele keskimmäistä puistotietä, käy pyhällä lähteellä, katso vanhoja puita ja lähdepaviljonki, vaella puutarhojen ja järven rannan kautta, tutustu lasten leikkipaikkaan ja ulkouimalaan ja lepää lopuksi nurmikentällä. Reitti on rento – noin 2 tuntia pelkkään katseluun, puoli päivää syvempään elämykseen.",
+    "steps": [
+      "Saavu läheiselle pysäkille ja kävele Kupittaanpuiston pääsisäänkäyntiin",
+      "Kävele keskimmäistä puistotietä ja ihastele avaria nurmikoita ja puustoa",
+      "Käy pyhällä lähteellä, opi suomalaisesta uskonnollisesta historiasta ja kulttuurista",
+      "Katso vuosisatoja vanhoja puita ja historiallista lähdepaviljonkia",
+      "Vaella puutarhapolkuja ja seuraa vuodenaikojen kukintoja",
+      "Kävele järven rantaa ja tarkkaile linnustoa ja järvimaisemaa",
+      "Tutustu lasten leikkipaikkaan ja Seikkailupuistoon",
+      "Käy ulkouimalan alueella ja opi Suomen vanhimman uimalan historiasta",
+      "Lepää avaralla nurmikentällä ja eläyty paikallisten päivittäiseen piknik-elämään",
+      "Poistu sivuportista ja jatka kohti keskustaa ja Aurajokea"
+    ]
+  },
+  "photoSpots": {
+    "title": "Kuvauspaikat",
+    "spots": [
+      {
+        "name": "Keskimmäinen puistotie",
+        "desc": "Vahva syvyysvaikutelma, valo puiden läpi luo kerroksellisia varjoja – ihanteellinen tunnelmallisiin panoraamoihin"
+      },
+      {
+        "name": "Järven ranta",
+        "desc": "Taustana järvi ja puut, vesi luo luonnollisen heijastuksen – puhdas ja rauhoittava kuva"
+      },
+      {
+        "name": "Pyhän lähteen alue",
+        "desc": "Vanha kivinen lähde ja vihreys, pehmeä sommittelu – sopii kulttuuri- ja maisemakuvaukseen"
+      },
+      {
+        "name": "Vuosisatoja vanhat puut",
+        "desc": "Paksut rungot ja tuuhea latvus kohteina – korostaa ajan ja perinnön painoarvoa"
+      },
+      {
+        "name": "Avara nurmikenttä",
+        "desc": "Sininen taivas ja valkoiset pilvet laajan vihreän rinnalla – selkeä ja tyylikäs, sopii panoraamoihin ja muotokuviin"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Majoitus Kupittaan lähellä",
+    "hotels": [
+      {
+        "name": "Kupittaa ja Itäharju",
+        "desc": "Lähimpänä puistoa, lyhyt kävely kevyen liikenteen väyliä pitkin – sopii urheilu- ja tapahtumavierailuille.",
+        "price": "Katso varaussivustoja"
+      },
+      {
+        "name": "Turun keskusta",
+        "desc": "Kauppatorin ympärillä on runsaasti hotelleja, ravintoloita ja kauppoja; muutamassa minuutissa bussilla tai kävellen.",
+        "price": "Katso varaussivustoja"
+      },
+      {
+        "name": "Aurajokivarsi ja satama",
+        "desc": "Rauhallinen joen äärellä, helppo saavuttaa jokirantaa tai kauppatorin kautta.",
+        "price": "Katso varaussivustoja"
+      },
+      {
+        "name": "Yliopiston ja kampusten suunta",
+        "desc": "Edullisempaa majoitusta ja hyvät yhteydet; lyhyt kävely puistoon.",
+        "price": "Katso varaussivustoja"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Kuvagalleria",
+    "subtitle": "Kupittaanpuisto eri vuodenaikoina",
+    "captions": [
+      "Kupittaanpuiston panoraama",
+      "Keskimmäinen puistotie",
+      "Järven ranta",
+      "Pyhän lähteen alue",
+      "Vuosisatoja vanhat puut",
+      "Ulkouimala",
+      "Lasten leikkipaikka",
+      "Nurmikenttä"
+    ],
+    "viewAll": "Katso Google Mapsissa",
+    "showAll": "Näytä kaikki kuvat",
+    "showLess": "Näytä vähemmän"
+  },
+  "reviews": {
+    "title": "Kävijöiden arviot",
+    "declaration": "Kupittaanpuistolla on Google Mapsin arvio 4.4 / 5 yhteensä 5 221 arviosta (tarkistettu 10/2026). Yksittäiset arviot voi lukea Google Mapsista alla olevasta linkistä.",
+    "moreReviews": "Lue kaikki arviot Google Mapsissa",
+    "items": []
+  },
+  "mapSection": {
+    "title": "Saapuminen",
+    "subtitle": "Kupittaankatu 2, 20520 Turku, Suomi",
+    "openMaps": "Avaa Google Mapsissa"
+  },
+  "footer": {
+    "rights": "© 2026 Kupittaanpuiston riippumaton matkailutietohanke · Kaikki oikeudet pidätetään.",
+    "privacy": "Tietosuojaseloste",
+    "terms": "Käyttöehdot",
+    "cookies": "Evästeasetukset",
+    "officialResourcesTitle": "Viralliset ja muut lähteet",
+    "officialLinks": {
+      "turku": "Turun kaupunki",
+      "archipelago": "Visit Turku",
+      "suomi": "suomi.fi",
+      "ymparisto": "Ympäristö",
+      "visitFinland": "Visit Finland"
+    },
+    "disclaimer": "Tämä on riippumaton kolmannen osapuolen matkailutietosivusto. Emme ole sidoksissa Turun kaupunkiin tai muihin viranomaisiin. Ajantasaiset hinnat ja aukioloajat tarkistetaan aina palveluntuottajalta."
+  },
+  "privacy": {
+    "title": "Tietosuojaseloste",
+    "lastUpdated": "Päivitetty 10/2026",
+    "sections": [
+      {
+        "heading": "1. Tietojen kerääminen",
+        "content": "Emme kerää kävijöistä henkilötietoja. Sivustolla ei ole yhteydenottolomaketta, joka tallentaisi henkilötietoja."
+      },
+      {
+        "heading": "2. Tietojen käyttö",
+        "content": "Käsittelemäämme rajallista tietoa käytetään vain sivuston tarjoamiseen ja ylläpitoon. Emme myy tai jaa henkilötietoja kolmansille osapuolille markkinointiin."
+      },
+      {
+        "heading": "3. Evästeet ja seuranta",
+        "content": "Käytämme evästeitä ja vastaavia tekniikoita vain perustoimintoihin ja suostumuksella anonymiiseen analytiikkaan. Voit poistaa evästeet käytöstä selaimessasi."
+      },
+      {
+        "heading": "4. Tietoturva",
+        "content": "Sovellamme kohtuullisia toimenpiteitä käsittelemämme tietoon suojaamiseksi, mutta mikään internet-siirto ei ole täysin turvallinen."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Käyttöehdot",
+    "lastUpdated": "Päivitetty 10/2026",
+    "sections": [
+      {
+        "heading": "1. Ehtojen hyväksyminen",
+        "content": "Käyttämällä sivustoa hyväksyt nämä käyttöehdot. Jos et hyväksy niitä, et saa käyttää sivustoa."
+      },
+      {
+        "heading": "2. Sivuston käyttö",
+        "content": "Tämä sivusto on riippumaton kolmannen osapuolen matkailutietopalvelu. Tiedot ovat yleisiä tietoja varten."
+      },
+      {
+        "heading": "3. Immateriaalioikeudet",
+        "content": "Sivuston kaikki sisältö, mukaan lukien tekstit ja logot, on sivuston omistajan omaisuutta, ellei toisin mainita."
+      },
+      {
+        "heading": "4. Vastuunrajoitus",
+        "content": "Emme vastaa vahingoista, jotka aiheutuvat sivuston tai sen tietojen käytöstä. Kriittiset tiedot tarkistetaan aina palveluntuottajalta."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Evästeasetukset",
+    "description": "Hallitse evästeasetuksia.",
+    "essential": {
+      "title": "Välttämättömät evästeet",
+      "description": "Tarvitaan sivuston perustoimintoihin.",
+      "badge": "Aina käytössä"
+    },
+    "analytics": {
+      "title": "Analytiikkaevästeet",
+      "description": "Auttavat ymmärtämään, miten sivustoa käytetään."
+    },
+    "marketing": {
+      "title": "Markkinointievästeet",
+      "description": "Käytetään vierailijoiden seurantaan eri sivustoilla."
+    },
+    "save": "Tallenna valinnat",
+    "saved": "Valinnat tallennettu!"
+  },
+  "officialManagement": {
+    "title": "Tietoa Kupittaanpuistosta",
+    "text": "Kupittaanpuistoa hoitaa ja ylläpitää Turun kaupunki. Kaupungin mukaan se on Suomen vanhin kaupunkipuisto, ja sen historia alkaa 1820-luvulta.\n\nNykyään puisto on maksutta avoinna yleisölle ja toimii turkulaisten virkistyskeskuksena sekä tärkeänä ikkunana suomalaiseen historiaan ja luontoon. Puiston hoito, leikkipaikkojen toiminta ja ulkouimalan kausi päätetään kaupungin liikunta- ja viherpalveluissa; minigolfia ja Seikkailupuistoa pyörittävät erilliset toimijat."
+  },
+  "recommendations": {
+    "title": "Tutustu lisää",
+    "attractionsTitle": "Lähellä olevat kohteet",
+    "toursTitle": "Suositut kierrokset ja aktiviteetit",
+    "attractions": [
+      {
+        "name": "Turun keskusta",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Aurajoki",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Turun linna",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Turun tuomiokirkko",
+        "url": "https://www.turku.fi"
+      }
+    ],
+    "tours": [
+      {
+        "name": "Turun kaupunkikierros",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Aurajoen risteily",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Turun kävelykierros",
+        "url": "https://www.turku.fi"
+      },
+      {
+        "name": "Suomalainen saunakokemus",
+        "url": "https://www.turku.fi"
+      }
+    ]
+  },
+  "topics": {
+    "links": [
+      {
+        "slug": "leikkipuisto",
+        "title": "Leikkipuistot ja perheet",
+        "desc": "Kupittaanlahden leikkipaikka, liikennepuisto ja Seikkailupuisto."
+      },
+      {
+        "slug": "minigolf",
+        "title": "Kupittaanpuiston minigolf",
+        "desc": "Radan sijainti, kausi ja hinnasto."
+      },
+      {
+        "slug": "pysakointi",
+        "title": "Pysäköinti ja saapuminen autolla",
+        "desc": "Mihin pysäköidä ja miten saapua autolla."
+      },
+      {
+        "slug": "tapahtumat",
+        "title": "Tapahtumat puistossa",
+        "desc": "Turun kesän tapahtumapaikka ja mistä löytää ohjelmisto."
+      }
+    ],
+    "leikkipuisto": {
+      "metaTitle": "Kupittaanpuiston leikkipaikat – Kupittaanlahti & liikennepuisto, Turku",
+      "metaDescription": "Kupittaanlahden leikkipaikka, liikennepuisto ja Seikkailupuisto Kupittaanpuistossa Turkussa: sijainti, aukiolo, ikäsuositukset ja vinkit perheille.",
+      "title": "Leikkipaikat ja perhepalvelut",
+      "intro": "Kupittaanpuisto on yksi Turun parhaista perhekohteista, sillä useita eri-ikäisille sopivia tiloja on samalla alueella. Kaupungin ylläpitämä Kupittaanlahden leikkipaikka sijaitsee Kupittaankadun kävelyskäytävän varrella puiston länsipäässä. Lähellä on myös lastenkulttuurikeskus Färin ylläpitämä Seikkailupuisto sekä liikennepuisto, jossa lapset harjoittelevat liikennesääntöjä pienoiskoossa.",
+      "blocks": [
+        {
+          "title": "Kupittaanlahden leikkipaikka",
+          "content": "Osoite: Kupittaankatu 2, 20520 Turku. Leikkipaikka sijaitsee Kupittaankadun alun kävelyskäytävän varrella, ja viikonpäivien aamuisin siellä on kaupungin ohjattua toimintaa. Muiden aikojen laitteet ovat käytettävissä kuten muuallakin puistossa, ja alue on avoin ja maksuton."
+        },
+        {
+          "title": "Seikkailupuisto (Seikkailupuisto)",
+          "content": "Lastenkulttuurikeskus Färin ylläpitämä Seikkailupuisto sijaitsee puiston eteläosassa entisen puutarhakoulun alueella. Suunniteltu lapsille ja perheille; Färi järjestää ympärivuotista toimintaa varhaiskasvatusryhmille ja kouluille. Aukiolo vaihtelee kauden mukaan – tarkista Färin sivuilta."
+        },
+        {
+          "title": "Liikennepuisto",
+          "content": "Liikennepuistossa lapset harjoittelevat liikennesääntöjä turvallisessa ympäristössä: pienoistekaatioilla voi ajaa tasapainopyörällä tai polkuautolla. Sillä on oma verkkosivunsa ja aukiolonsa; tarkista etukäteen."
+        },
+        {
+          "title": "Lintulampi ja avoimet nurmikot",
+          "content": "Lintulampi on nähtävyys, jonka ympärillä on katselupolku ja penkkejä. Avointa nurmea voi käyttää pallopeleihin ja piknikkiin; tasainen polku sopii rattaiden kanssa liikkumiseen. Puistossa on yleinen vessa."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Missä leikkipaikka on?",
+          "a": "Kupittaanlahden leikkipaikka on osoitteessa Kupittaankatu 2, 20520 Turku, Kupittaankadun alun kävelyskäytävän varrella."
+        },
+        {
+          "q": "Milloin se on auki?",
+          "a": "Ohjattua toimintaa viikonpäivien aamuisin; laitteet ovat käytettävissä normaalien puiston aukioloaikojen mukaan."
+        },
+        {
+          "q": "Onko se maksuton?",
+          "a": "Leikkipaikka ja puisto ovat maksuttomia. Seikkailupuistolla ja liikennepuistolla voi olla omaa toimintaa; tarkista niiden sivuilta."
+        },
+        {
+          "q": "Sopiiko talvella?",
+          "a": "Kyllä, avoinna ympäri vuoden; polut voivat olla jäisiä."
+        },
+        {
+          "q": "Vessat ja piknik?",
+          "a": "Puistossa on yleinen vessa; nurmikot ja penkit sopivat piknikkiin."
+        }
+      ]
+    },
+    "minigolf": {
+      "metaTitle": "Kupittaanpuiston minigolf – Sijainti, kausi & hinnat, Turku",
+      "metaDescription": "Kupittaanpuiston minigolf Turkussa: osoite Kupittaankatu 10, kausi, hinnasto ja miten se eroaa maksuttomasta puistosta.",
+      "title": "Kupittaanpuiston minigolf",
+      "intro": "Kupittaanpuiston minigolf on puiston sisällä oleva erillinen kohde, jota pyörittää oma yrittäjänsä. Se ei kuulu kaupungin maksuttomaan puistotarjontaan, joten radalla on oma kautensa, aukiolonsa ja hinnastonsa. Rata on osoitteessa Kupittaankatu 10, lyhyen kävelymatkan päässä Kupittaanlahden leikkipaikalta.",
+      "blocks": [
+        {
+          "title": "Sijainti",
+          "content": "Kupittaankatu 10, Turku, Kupittaanpuiston sisällä, lyhyen kävelymatkan päässä kävelyskäytävältä. Lähellä: leikkipaikka, Seikkailupuisto, lintulampi."
+        },
+        {
+          "title": "Kausi ja aukiolo",
+          "content": "Kausiluonteinen: avautuu keväällä, sulkeutuu syksyllä, ei säänvaraa. Vuonna 2026 kausi jatkui 27. syyskuuta saakka, jolloin rata oli avoinna lauantaisin ja sunnuntaisin kello 10–21. Aukiolo muuttuu kauden mukaan, joten tarkista ajantasaiset ajat minigolfturku.fi-sivustolta."
+        },
+        {
+          "title": "Hinnasto",
+          "content": "Vakiovälineet sisältyvät pelimaksuun; kilpailupallot voi vuokrata erillistä maksua vastaan. Hinnat jakautuvat aikuisiin, lapsiin ja nuoriin, joillekin ryhmille on alennettuja hintoja, ja perhepaketti on saatavilla. Tarkat hinnat muuttuvat kauden mukaan, joten tarkista ajantasainen hinnasto yrittäjän sivuilta."
+        },
+        {
+          "title": "Paikan päällä",
+          "content": "Radalla myydään italialaista Minetti-jäätelöä, ja tarjolla on laktoosittomia, gluteenittomia ja vegaanisia vaihtoehtoja. Yli kymmenen hengen ryhmiltä pyydetään ennakkoilmoittautuminen sähköpostitse; pienemmät ryhmät eivät tarvitse varausta."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Missä rata on?",
+          "a": "Radan osoite on Kupittaankatu 10, Turku, Kupittaanpuiston sisällä ja lyhyen kävelymatkan päässä Kupittaanlahden leikkipaikalta."
+        },
+        {
+          "q": "Kuka sitä pyörittää?",
+          "a": "Sen pyörittää itsenäinen yrittäjä Kupittaanpuisto Minigolf (Minigolf Turku), ei Turun kaupunki. Hinnasto ja aukiolo ovat yrittäjän vastuulla."
+        },
+        {
+          "q": "Onko minigolf maksuton kuten puisto?",
+          "a": "Ei. Puisto on maksuton, mutta minigolfilla on oma pelimaksunsa, joka vaihtelee ikäryhmän mukaan. Ajantasaiset hinnat ovat yrittäjän sivuilla."
+        },
+        {
+          "q": "Milloin rata on auki?",
+          "a": "Rata on avoinna kausiluonteisesti keväästä syksyyn. Avautuminen on viime aikoina keskittynyt viikonloppuisin, mutta aukiolo vaihtelee kauden mukaan – tarkista ne minigolfturku.fi-sivustolta."
+        },
+        {
+          "q": "Tarvitsevatko ryhmät varauksen?",
+          "a": "Yli kymmenen hengen ryhmät ilmoittautuvat etukäteen sähköpostitse. Pienemmät seurueet voivat tulla suoraan paikalle."
+        }
+      ]
+    },
+    "pysakointi": {
+      "metaTitle": "Pysäköinti Kupittaanpuistossa – Saapuminen autolla, Turku",
+      "metaDescription": "Mihin pysäköidä Kupittaanpuistoon Turkussa: katupysäköinti, liikuntapaikkojen pysäköintialueet, esteetön kulkuyhteys ja joukkoliikennevaihtoehto.",
+      "title": "Pysäköinti ja saapuminen autolla",
+      "intro": "Kupittaanpuisto sijaitsee Kupittaan kaupunginosassa, jossa on sekä kadunvarsipaikkoja että Kupittaan liikunta- ja tapahtuma-alueita palvelevia pysäköintialueita. Arkipäivisin useimmat löytävät paikan nopeasti, mutta suurten tapahtumien ja kesän urheilupäivien aikana paikat täyttyvät aikaisin. Tämä opas selittää, missä paikat ovat ja milloin on parempi ottaa bussi.",
+      "blocks": [
+        {
+          "title": "Katupysäköinti",
+          "content": "Puistoa ympäröivät kadut – muun muassa Kupittaankatu – tarjoavat eniten paikkoja. Ne ovat kätevän matkan päässä Kupittaanlahden leikkipaikalta, lintulammelta ja Seikkailupuistosta. Tarkista Turun ajankohtaiset maksut, vyöhykkeet ja aikarajat ennen lähtöä."
+        },
+        {
+          "title": "Liikuntapaikkojen pysäköintialueet",
+          "content": "Pysäköintialueita on Kupittaan liikuntahallilla, palloiluhallilla, monitoimikentällä ja kenttäalueilla. Ne ovat paras vaihtoehto, jos olet menossa urheilemaan tai tapahtumaan, sillä kävelymatka kohteeseen pysyy lyhyenä."
+        },
+        {
+          "title": "Esteetön kulkuyhteys",
+          "content": "Puiston halki kulkeva Kupittaankadun kävelyskäytävä on tasainen ja sopii pyörätuoleille, rollaattoreille ja rattaille. Esteettömimmät reitit ovat puiston länsipäässä, jossa Kupittaanlahden leikkipaikka sijaitsee."
+        },
+        {
+          "title": "Milloin ottaa bussi",
+          "content": "Tapahtumapäivinä ja lämpiminä kesäviikonloppuina paikat täyttyvät nopeasti. Föli liikennöi useita bussilinjoja Kupittaan alueelle, ja matka keskustasta kestää vain muutaman minuutin – usein nopeammin kuin pysäköintipaikan etsiminen."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Onko Kupittaanpuiston pysäköinti maksuton?",
+          "a": "Riippuu paikasta ja Turun ajankohtaisista pysäköintisäännöistä. Tarkista ajankohtaiset maksut ja vyöhykkeet kaupungin pysäköintitiedoista."
+        },
+        {
+          "q": "Missä on leikkipaikkaa lähin pysäköinti?",
+          "a": "Kupittaankadun ja sen ympäristön kadut ovat lähimpänä Kupittaanlahden leikkipaikkaa (Kupittaankatu 2) ja lintulampea."
+        },
+        {
+          "q": "Miten saavun puistoon esteettömästi?",
+          "a": "Kupittaankadun kävelyskäytävä on tasainen ja sopii pyörätuoleille ja rattaille. Esteetön reitti on puiston länsipäässä."
+        },
+        {
+          "q": "Milloin jätän auton kotiin?",
+          "a": "Suuren tapahtuman tai lämpimän kesäviikonlopun aikana. Fölin bussit ovat silloin yleensä nopeampi vaihtoehto, ja vältyt paikan etsimiseen käytetyltä ajalta."
+        },
+        {
+          "q": "Voinko saapua taksilla?",
+          "a": "Kyllä. Pysäköinti ja jättö ovat helppoja puistoa ympäröivillä kaduilla, ja kävelymatka nähtävyyksiin on lyhyt."
+        }
+      ]
+    },
+    "tapahtumat": {
+      "metaTitle": "Tapahtumat Kupittaanpuistossa – Turun ohjelmisto & kalenteri",
+      "metaDescription": "Kupittaanpuiston tunnetuimmat tapahtumat ja mistä löytää tämän kauden ohjelmisto Turkussa.",
+      "title": "Tapahtumat Kupittaanpuistossa",
+      "intro": "Kupittaanpuiston laajat nurmikot tekevät siitä yhden Turun tärkeimmistä ulkoilmatapahtumapaikoista. Alueella on järjestetty suuria yleisötapahtumia vuosien varrella, ja etenkin kesällä alue täyttyy musiikista ja kokoontumisista. Tämä sivusto ei ylläpidä omaa tapahtumakalenteria, vaan ohjaa lähteisiin, joissa on ajankohtainen ohjelmisto.",
+      "blocks": [
+        {
+          "title": "Uusi musiikkijuhla (New Music Festival)",
+          "content": "Kupittaanpuisto on ollut Uuden musiikkijuhlan pääpaikka vuodesta 2008 lähtien. Juhla tuo useita lavoja ja suuren yleisön puistoon, joten alueen käyttö juhlan aikana poikkeaa tavallisesta."
+        },
+        {
+          "title": "Yleisötapahtumat ja Botellón-perinne",
+          "content": "Vuodesta 2009 lähtien puisto on isännöinyt Botellón-piknikkiä, jota järjestetään epävirallisesti sosiaalisen median kautta ilman virallista järjestäjää. Alueella on järjestetty myös valtakunnallisia tapahtumia: vuoden 2012 evankeliumijuhla keräsi noin 12 500 kävijää ja Ylen kesätapahtuma vuonna 2025 noin 48 500 kävijää."
+        },
+        {
+          "title": "Jokapäiväinen puistolife – urheilu ja harjoittelu",
+          "content": "Ilman suuria tapahtumia Kupittaanpuisto on jatkuvassa käytössä: monitoimikenttä, tekonurmi-, suomalainen pesäpallo -kentät, pétanque-kentät, koripallokenttä, rantalentopallo ja kuntoportaat muovaavat arkea. Kesällä monitoimikentän välinevuokraus on maksutonta."
+        },
+        {
+          "title": "Mistä löytää ajankohtainen ohjelmisto",
+          "content": "Emme julkaise omaa tapahtumakalenteria, koska emme voi taata sen ajantasaisuutta. Tarkista kauden ohjelmisto Turun kaupungin ja Visit Turun sivuilta sekä kunkin juhlan omilta sivuilta."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Millaisia tapahtumia Kupittaanpuistossa järjestetään?",
+          "a": "Tunnetuimpia ovat Uusi musiikkijuhla, jonka pääpaikkana puisto on ollut vuodesta 2008, sekä erilaiset yleisötapahtumat ja piknikit. Ohjelmisto vaihtuu vuosittain."
+        },
+        {
+          "q": "Onko tällä sivustolla tapahtumakalenteri?",
+          "a": "Ei. Emme ylläpidä omaa kalenteria, koska emme voi taata sen ajantasaisuutta. Tarkista ohjelmisto Turun kaupungin, Visit Turun ja järjestäjien omilta sivuilta."
+        },
+        {
+          "q": "Miten pääsen suuriin tapahtumiin?",
+          "a": "Fölin bussit liikennöivät useilla linjoilla Kupittaan alueelle. Suurten tapahtumien aikana joukkoliikenne on yleensä paras vaihtoehto, koska pysäköintipaikat täyttyvät nopeasti."
+        },
+        {
+          "q": "Maksavatko tapahtumat?",
+          "a": "Riippuu tapahtumasta. Osa puistotapahtumista on maksutonta ja osa lipullisia. Tarkista aina hinnat järjestäjän omilta sivuilta."
+        },
+        {
+          "q": "Voinko vierailla puistossa tapahtumapäivänä muista syistä?",
+          "a": "Yleensä kyllä, mutta jotkin alueet voivat olla varattu järjestäjälle. Tarkista tapahtuman tiedot etukäteen, jos tulet urheilemaan tai lapsiperheenä."
+        }
+      ]
+    },
+    "faqTitle": "Usein kysytyt kysymykset",
+    "guidesTitle": "Oppaat ja käytännön tiedot",
+    "readMore": "Lue opas"
+  }
+}

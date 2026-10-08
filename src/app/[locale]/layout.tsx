@@ -2,6 +2,8 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import { SITE_URL, htmlLang, ogLocaleMap, hreflangCode, buildAlternates } from '@/lib/site';
+import { siteName } from '@/lib/site';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
@@ -14,30 +16,25 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  if (!routing.locales.includes(locale as any)) {
+    return {};
+  }
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://kupittaapark.com';
-
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const { canonical, languages } = buildAlternates(locale as any, '/');
 
   return {
     title: messages.meta.title,
     description: messages.meta.description,
     alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
-      },
+      canonical,
+      languages,
     },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
-      url: selfUrl,
-      siteName: "Kupittaa Park",
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      url: canonical,
+      siteName: siteName[locale as keyof typeof siteName],
+      locale: ogLocaleMap[locale as keyof typeof ogLocaleMap],
       type: 'website',
     },
   };
@@ -60,7 +57,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={htmlLang[locale as keyof typeof htmlLang] ?? locale} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
