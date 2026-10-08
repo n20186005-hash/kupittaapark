@@ -1,9 +1,14 @@
 import type { MetadataRoute } from 'next';
-import { buildAlternates } from '@/lib/site';
+import { buildAlternates, TOPIC_SLUGS } from '@/lib/site';
 
 // Pages to index. The cookie-settings page is intentionally excluded
-// (low value, preference-only). Topic guide pages are added when present.
-const PATHS = ['/', '/privacy-policy', '/terms-of-service'];
+// (low value, preference-only). Topic guide pages are added below.
+const PATHS = [
+  '/',
+  '/privacy-policy',
+  '/terms-of-service',
+  ...TOPIC_SLUGS.map((slug) => `/topics/${slug}`),
+];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return PATHS.map((path) => {

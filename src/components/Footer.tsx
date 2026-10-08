@@ -3,8 +3,10 @@ import { useLocale } from 'next-intl';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const tt = useTranslations('topics');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
+  const topicLinks = (tt.raw('links') || []) as Array<{ slug: string; title: string }>;
 
   return (
     <footer
@@ -37,6 +39,21 @@ export default function Footer() {
                 {t('officialLinks.visitFinland')}
               </a>
             </div>
+          </div>
+          <div className="flex flex-col gap-3 text-sm mt-4 sm:mt-0">
+            <span className="font-semibold" style={{ color: 'var(--text-primary)' }}>
+              {tt('guidesTitle')}
+            </span>
+            {topicLinks.map((link) => (
+              <a
+                key={link.slug}
+                href={`${prefix}/topics/${link.slug}`}
+                style={{ color: 'var(--text-secondary)' }}
+                className="hover:underline"
+              >
+                {link.title}
+              </a>
+            ))}
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
