@@ -12,8 +12,6 @@ import { buildAlternates, localizedUrl } from '@/lib/site';
 
 type Props = { params: Promise<{ locale: string; slug: string }> };
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return places.map(({ slug }) => ({ slug }));
 }
