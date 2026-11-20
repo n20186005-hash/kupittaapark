@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { ATTRACTION } from '@/lib/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
@@ -31,7 +32,7 @@ export default function Hero() {
               <svg width="16" height="16" viewBox="0 0 24 24" fill="#f0b429" stroke="none">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
               </svg>
-              <span className="text-white text-sm font-medium">{t('rating')}</span>
+              <span className="text-white text-sm font-medium">Google Maps · {t('rating')}</span>
               <span className="text-white/60 text-xs">({t('reviewCount')})</span>
             </div>
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
@@ -42,7 +43,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('hours')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/uJAE8F4ZkzSdzspG8"
+              href={ATTRACTION.mapsUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"

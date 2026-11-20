@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations, useMessages } from 'next-intl';
+import { ATTRACTION } from '@/lib/site';
 import { useState, useCallback } from 'react';
 
 const photos = [
@@ -116,7 +117,7 @@ export default function Gallery() {
                 </button>
               )}
               <a
-                href="https://maps.app.goo.gl/uJAE8F4ZkzSdzspG8"
+                href={ATTRACTION.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

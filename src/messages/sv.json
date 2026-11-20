@@ -13,14 +13,14 @@
   "hero": {
     "title": "Kuppisparken",
     "subtitle": "Finlands äldsta och största stadspark i Åbo – fågeldammen, lekplatser, utomhusbad och bangolf",
-    "rating": "4.4 (5 221)",
-    "reviewCount": "5 221 omdömen",
+    "rating": "4,4",
+    "reviewCount": "5 233 omdömen",
     "hours": "Öppet dygnet runt",
     "openMaps": "Visa platsen"
   },
   "intro": {
     "title": "Upptäck Kuppisparken",
-    "description": "Stig in i Kuppisparken och omfamnas av stillsam nordisk grönska – vida gräsmattor, gamla träd, en lugn sjö och slingrande stigar utan kommersiellt brus.\n\nMed sina cirka 24 hektar är parken Åbos största sammanhängande grönområde. Höjdpunkter är fågeldammen, lekplatsen och trafikparken Kupittaanlahte för barn, Seikkailupuisto, en multisportplan och Finlands äldsta utomhusbad från 1912.\n\nBesökare rör sig i lugnt tempo – löpare på stigarna, picknick på gräsmattorna, barn som leker. Den gamla källpaviljongen, de klassiska skulpturerna och minnesplattorna ger kulturellt djup. Här finns ingen brådska, bara att stanna upp och finna ro.",
+    "description": "Stig in i Kuppisparken och omfamnas av stillsam nordisk grönska – vida gräsmattor, gamla träd, en fågeldamm och slingrande stigar utan kommersiellt brus.\n\nMed sina cirka 24 hektar är parken Åbos största sammanhängande grönområde. Höjdpunkter är fågeldammen, lekplatsen och trafikparken Kupittaanlähde för barn, Seikkailupuisto, en multisportplan och Finlands äldsta utomhusbad.\n\nBesökare rör sig i lugnt tempo – löpare på stigarna, picknick på gräsmattorna, barn som leker. Den gamla källpaviljongen, de klassiska skulpturerna och minnesplattorna ger kulturellt djup. Här finns ingen brådska, bara att stanna upp och finna ro.",
     "visitGuide": {
       "title": "Praktiska tips",
       "items": [
@@ -34,9 +34,9 @@
       "title": "Vad parken erbjuder",
       "items": [
         "Finlands äldsta stadspark, grundad på 1820-talet",
-        "Finlands äldsta utomhusbad (1912)",
+        "Finlands äldsta utomhusbad",
         "Den heliga källan med dop traditionen från 1155",
-        "Kupittaanlahtes lekplats, trafikpark och Seikkailupuisto för familjer"
+        "lekplatsen vid Kupittaanlähde, trafikpark och Seikkailupuisto för familjer"
       ]
     }
   },
@@ -46,12 +46,12 @@
       {
         "id": "history",
         "title": "Kuppisparkens historia",
-        "content": "Kuppisparkens rötter sträcker sig till 1820-talet, då en promenad växte fram vid en badkälla. Under 1800- och 1900-talen utvecklades den till en offentlig stadspark – Åbo stad beskriver den i dag som Finlands äldsta stadspark.\n\nDen heliga källan bär på en tradition: enligt sägnen döpte biskop Henrik här år 1155 Finlands första kristna. I århundraden var platsen ett bad och en mötesplats med både religiöst och världsligt minne.\n\nDärefter har parken utvidgats flera gånger och fått utomhusbadet (1912), lekplatser och idrottsanläggningar. Så har den vuxit till ett grönområde som förenar natur, historia och rekreation."
+        "content": "Kuppisparkens rötter sträcker sig till 1820-talet, då en promenad växte fram vid en badkälla. Under 1800- och 1900-talen utvecklades den till en offentlig stadspark – Åbo stad beskriver den i dag som Finlands äldsta stadspark.\n\nDen heliga källan bär på en tradition: enligt sägnen döpte biskop Henrik här år 1155 Finlands första kristna. I århundraden var platsen ett bad och en mötesplats med både religiöst och världsligt minne.\n\nDärefter har parken utvidgats flera gånger och fått utomhusbadet, lekplatser och idrottsanläggningar. Så har den vuxit till ett grönområde som förenar natur, historia och rekreation."
       },
       {
         "id": "architecture",
         "title": "Trädgård och landskap",
-        "content": "På de cirka 24 hektaren utgör vida gräsmattor, formella trädgårdar, slingrande stigar och sjöutsikt kärnan, kompletterade av en gammal källpaviljong, klassiska skulpturer, minnesplattor och århundraden gamla träd.\n\nHär finns Finlands äldsta utomhusbad (1912), Kupittaanlahtes lekplats och Seikkailupuisto. Naturliga landskap och rekreationsanläggningar smälter samman, och planeringen balanserar öppen natur med strukturerad trädgård."
+        "content": "På de cirka 24 hektaren utgör vida gräsmattor, formella trädgårdar, slingrande stigar och en fågeldamm kärnan, kompletterade av en gammal källpaviljong, klassiska skulpturer, minnesplattor och århundraden gamla träd.\n\nHär finns Finlands äldsta utomhusbad, lekplatsen vid Kupittaanlähde och Seikkailupuisto. Naturliga landskap och rekreationsanläggningar smälter samman, och planeringen balanserar öppen natur med strukturerad trädgård."
       },
       {
         "id": "culture",
@@ -61,7 +61,7 @@
       {
         "id": "pool",
         "title": "Utomhusbadet",
-        "content": "Finlands äldsta utomhusbad, öppnat 1912, är fortfarande den populäraste sommaranläggningen. Säsongen 2026 var 5.6.–13.9. och är nu avslutad; kommande säsongs datum publiceras av Åbo stad.\n\nBadet har en separat entréavgift som staden fastställer, och aktuella priser finns på turku.fi/kupittaan-maauimala. Badet ligger vid parkens kant så att man kan simma omgiven av grönska."
+        "content": "Kuppis utomhusbad är ett sommarbad. Säsongen 2026 var 5.6.–13.9. och är nu avslutad; kommande säsongs datum publiceras av Åbo stad.\n\nBadet har en separat entréavgift som staden fastställer, och aktuella priser finns på turku.fi/kupittaan-maauimala. Badet ligger vid parkens kant så att man kan simma omgiven av grönska."
       }
     ]
   },
@@ -76,11 +76,11 @@
     "city": "Stad",
     "cityValue": "Åbo (Turku)",
     "googleRating": "Google-betyg",
-    "googleRatingValue": "4.4 / 5 (5 221)",
+    "googleRatingValue": "4,4 / 5 (5 233)",
     "phone": "Telefon",
     "phoneValue": "+358 2 330 000",
     "address": "Adress",
-    "addressValue": "Kupittaankatu 2, 20520 Åbo, Finland"
+    "addressValue": "20520 Åbo, Finland"
   },
   "hours": {
     "title": "Öppettider",
@@ -208,13 +208,14 @@
   },
   "reviews": {
     "title": "Besökarnas omdömen",
-    "declaration": "Kuppisparken har ett Google Maps-betyg på 4.4 / 5 med totalt 5 221 omdömen (kontrollerat 10/2026). Enskilda omdömen kan läsas på Google Maps via länken nedan.",
+    "declaration": "Kuppisparken har ett Google Maps-betyg på 4,4 / 5 med totalt 5 233 omdömen (kontrollerat 20.11.2026). Enskilda omdömen kan läsas på Google Maps via länken nedan.",
     "moreReviews": "Läs alla omdömen på Google Maps",
     "items": []
   },
   "mapSection": {
     "title": "Hitta hit",
-    "subtitle": "Kupittaankatu 2, 20520 Åbo, Finland",
+    "subtitle": "20520 Åbo, Finland",
+    "mapTitle": "Kuppisparken på Google Maps",
     "openMaps": "Öppna i Google Maps"
   },
   "footer": {

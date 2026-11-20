@@ -13,14 +13,14 @@
   "hero": {
     "title": "Kupittaa Park",
     "subtitle": "Finland's oldest urban park in Turku – bird pond, playgrounds, outdoor pool and minigolf",
-    "rating": "4.4 (5,221)",
-    "reviewCount": "5,221 reviews",
+    "rating": "4.4",
+    "reviewCount": "5,233 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Discover Kupittaa Park",
-    "description": "Step into Kupittaa Park and you are embraced by serene Nordic greenery — open lawns, mature trees, a calm lake and winding paths, with no commercial bustle.\n\nAt about 24 hectares, the park is Turku's largest continuous green space. Highlights include the bird pond, the Kupittaanlahte playground and traffic park for children, the Adventure Park (Seikkailupuisto), a multi-sport court, and Finland's oldest outdoor swimming pool, built in 1912.\n\nVisitors move at an unhurried pace — joggers on the paths, picnickers on the lawns, children playing. A century-old spring pavilion, vintage sculptures and plaques add cultural depth. There is no rushing here, only slowing down and finding peace.",
+    "description": "Step into Kupittaa Park and you are embraced by serene Nordic greenery — open lawns, mature trees, a bird pond and winding paths, with no commercial bustle.\n\nAt about 24 hectares, the park is Turku's largest continuous green space. Highlights include the bird pond, the Kupittaanlähde Playground and traffic park for children, the Adventure Park (Seikkailupuisto), a multi-sport court, and the seasonal outdoor pool.\n\nVisitors move at an unhurried pace — joggers on the paths, picnickers on the lawns, children playing. A century-old spring pavilion, vintage sculptures and plaques add cultural depth. There is no rushing here, only slowing down and finding peace.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -34,9 +34,9 @@
       "title": "Highlights",
       "items": [
         "Finland's oldest urban park, originating in the 1820s",
-        "Finland's oldest outdoor swimming pool (1912)",
+        "Finland's oldest outdoor swimming pool",
         "A sacred spring linked to the 1155 baptism legend",
-        "Kupittaanlahte playground, traffic park and Adventure Park for families"
+        "Kupittaanlähde Playground, traffic park and Adventure Park for families"
       ]
     }
   },
@@ -46,12 +46,12 @@
       {
         "id": "history",
         "title": "Kupittaa Park Through the Years",
-        "content": "Kupittaa Park's origins trace back to the 1820s, when a promenade was laid out beside a spa spring. Across the 19th and 20th centuries it was formalised into a public urban park — today described by the City of Turku as Finland's oldest urban park.\n\nThe park's sacred spring carries a legend: it is said that in 1155 Bishop Henry baptised Finland's first Christians here. For centuries this was a spa and gathering place, holding both religious and secular memory.\n\nSince then the park has expanded repeatedly, adding the outdoor pool (1912), children's playgrounds and sports facilities, growing into a green core that blends nature, history and recreation."
+        "content": "Kupittaa Park's origins trace back to the 1820s, when a promenade was laid out beside a spa spring. Across the 19th and 20th centuries it was formalised into a public urban park — today described by the City of Turku as Finland's oldest urban park.\n\nThe park's sacred spring carries a legend: it is said that in 1155 Bishop Henry baptised Finland's first Christians here. For centuries this was a spa and gathering place, holding both religious and secular memory.\n\nSince then the park has expanded repeatedly, adding the outdoor pool, children's playgrounds and sports facilities, growing into a green core that blends nature, history and recreation."
       },
       {
         "id": "architecture",
         "title": "Gardens & Landscape",
-        "content": "Spanning approximately 24 hectares, the park features expansive lawns, formal gardens, winding paths and lake scenery as its core, complemented by a historic spring pavilion, vintage sculptures, commemorative plaques and century-old trees.\n\nHome to Finland's oldest outdoor swimming pool (built 1912), the Kupittaanlahte playground and the Adventure Park (Seikkailupuisto) — natural landscapes and recreational facilities blend together. The layout balances open, natural greenery with structured garden design."
+        "content": "Spanning approximately 24 hectares, the park features expansive lawns, formal gardens, winding paths and pond scenery as its core, complemented by a historic spring pavilion, vintage sculptures, commemorative plaques and century-old trees.\n\nHome to Finland's oldest outdoor swimming pool, the Kupittaanlähde Playground and the Adventure Park (Seikkailupuisto) — natural landscapes and recreational facilities blend together. The layout balances open, natural greenery with structured garden design."
       },
       {
         "id": "culture",
@@ -61,7 +61,7 @@
       {
         "id": "pool",
         "title": "Outdoor Swimming Pool",
-        "content": "Finland's oldest outdoor swimming pool, built in 1912, remains the most popular summer facility. In 2026 the season ran from 5 June to 13 September and has now ended; the next season's dates are published by the City of Turku.\n\nAdmission is charged and is set by the city — current prices are listed on turku.fi/kupittaan-maauimala. The pool sits beside the park, so swimmers can enjoy the green surroundings."
+        "content": "The outdoor pool opens in summer. In 2026 the season ran from 5 June to 13 September and has now ended; the next season's dates are published by the City of Turku.\n\nAdmission is charged and is set by the city — current prices are listed on turku.fi/kupittaan-maauimala. The pool sits beside the park, so swimmers can enjoy the green surroundings."
       }
     ]
   },
@@ -76,11 +76,11 @@
     "city": "City",
     "cityValue": "Turku",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 / 5 (5,221)",
+    "googleRatingValue": "4.4 / 5 (5,233)",
     "phone": "Phone",
     "phoneValue": "+358 2 330 000",
     "address": "Address",
-    "addressValue": "Kupittaankatu 2, 20520 Turku, Finland"
+    "addressValue": "20520 Turku, Finland"
   },
   "hours": {
     "title": "Opening Hours",
@@ -132,7 +132,7 @@
       "Visit the sacred spring area, learn about Finnish religious historical legends and cultural origins",
       "See the century-old trees and the historic spring pavilion, observe the garden design",
       "Wander through garden paths, admire seasonal planting and horticultural designs",
-      "Stroll along the lakeside, observe waterbirds and lake scenery up close",
+      "Stroll along the lakeside, observe waterbirds and pond scenery up close",
       "Tour the children's playground and Adventure Park, experience the family recreation atmosphere",
       "Visit the outdoor swimming pool area, learn about Finland's oldest pool's history",
       "Relax at the expansive lawn area, experience locals' daily picnic and relaxation",
@@ -208,13 +208,14 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Kupittaa Park holds a Google Maps rating of 4.4 out of 5 from 5,221 reviews (checked October 2026). Individual visitor reviews can be read on Google Maps via the link below.",
+    "declaration": "Kupittaa Park holds a Google Maps rating of 4.4 out of 5 from 5,233 reviews (checked 20 November 2026). Individual visitor reviews can be read on Google Maps via the link below.",
     "moreReviews": "View more reviews on Google Maps",
     "items": []
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "Kupittaankatu 2, 20520 Turku, Finland",
+    "subtitle": "20520 Turku, Finland",
+    "mapTitle": "Kupittaa Park on Google Maps",
     "openMaps": "View on Google Maps"
   },
   "footer": {
@@ -297,7 +298,7 @@
   },
   "officialManagement": {
     "title": "About Kupittaa Park",
-    "text": "Kupittaa Park is managed and maintained by the City of Turku. According to the city, it is Finland's oldest urban park, with a history beginning in the 1820s.\n\nToday the park is open to the public free of charge and serves as the core recreational space for Turku residents and an important window for visitors to learn about Finnish history and nature. Park maintenance, playground activities and the outdoor pool season are decided by the city's sports and green-area services; minigolf and the Adventure Park are run by separate operators."
+    "text": "Kupittaa Park is managed and maintained by the City of Turku. According to the city, it is Finland's oldest urban park, with a history beginning in the 1820s.\n\nToday the park is open to the public free of charge and serves as the core recreational space for Turku residents and an important window for visitors to learn about Finnish history and nature. Park maintenance, playground activities and the outdoor pool season are decided by the city's sports and green-area services; Färi, the city’s children’s culture centre, runs the Adventure Park. Check the minigolf operator separately."
   },
   "recommendations": {
     "title": "Discover More",
@@ -345,7 +346,7 @@
       {
         "slug": "leikkipuisto",
         "title": "Playgrounds & Family",
-        "desc": "Kupittaanlahte playground, traffic park and Adventure Park."
+        "desc": "Kupittaanlähde Playground, traffic park and Adventure Park."
       },
       {
         "slug": "minigolf",
@@ -365,12 +366,12 @@
     ],
     "leikkipuisto": {
       "metaTitle": "Kupittaanpuisto Playgrounds – Kupittaanlahte & Traffic Park, Turku",
-      "metaDescription": "Kupittaanlahte playground, traffic park and Adventure Park in Kupittaa Park, Turku: location, hours, age guidance and family tips.",
+      "metaDescription": "Kupittaanlähde Playground, traffic park and Adventure Park in Kupittaa Park, Turku: location, hours, age guidance and family tips.",
       "title": "Playgrounds & Family Facilities",
-      "intro": "Kupittaa Park is one of Turku's best family destinations because several facilities for different ages sit within the same area. The city-run Kupittaanlahte playground lies along the Kupittaankatu pedestrian avenue near the park's western end. Nearby are the Adventure Park (Seikkailupuisto), run by the children's culture centre Färi, and the traffic park where children practise road rules in miniature.",
+      "intro": "Kupittaa Park is one of Turku's best family destinations because several facilities for different ages sit within the same area. The city-run Kupittaanlähde Playground lies along the Kupittaankatu pedestrian avenue near the park's western end. Nearby are the Adventure Park (Seikkailupuisto), run by the children's culture centre Färi, and the traffic park where children practise road rules in miniature.",
       "blocks": [
         {
-          "title": "Kupittaanlahte playground",
+          "title": "Kupittaanlähde Playground",
           "content": "Address: Kupittaankatu 2, 20520 Turku. The playground sits along the pedestrian avenue from the start of Kupittaankatu, with city-run supervised play activities on weekday mornings. Outside those hours the equipment stays available like elsewhere in the park, and the area is open and free."
         },
         {
@@ -389,7 +390,7 @@
       "faq": [
         {
           "q": "Where is the playground?",
-          "a": "Kupittaanlahte playground is at Kupittaankatu 2, 20520 Turku, along the pedestrian avenue at the start of Kupittaankatu."
+          "a": "Kupittaanlähde Playground is at Kupittaankatu 2, 20520 Turku, along the pedestrian avenue at the start of Kupittaankatu."
         },
         {
           "q": "When is it open?",
@@ -413,7 +414,7 @@
       "metaTitle": "Kupittaanpuisto Minigolf – Location, Season & Prices, Turku",
       "metaDescription": "Kupittaanpuisto Minigolf in Turku: address Kupittaankatu 10, season, pricing and how it differs from the free park.",
       "title": "Kupittaanpuisto Minigolf",
-      "intro": "Kupittaanpuisto Minigolf is a separate attraction inside the park, run by its own operator. It is not part of the city's free park offering, so the course has its own season, hours and pricing. The course is at Kupittaankatu 10, a short walk from Kupittaanlahte playground.",
+      "intro": "Kupittaanpuisto Minigolf is a separate attraction inside the park, run by its own operator. It is not part of the city's free park offering, so the course has its own season, hours and pricing. The course is at Kupittaankatu 10, a short walk from Kupittaanlähde Playground.",
       "blocks": [
         {
           "title": "Location",
@@ -435,7 +436,7 @@
       "faq": [
         {
           "q": "Where is the course?",
-          "a": "The course address is Kupittaankatu 10, Turku, inside Kupittaa Park and a short walk from Kupittaanlahte playground."
+          "a": "The course address is Kupittaankatu 10, Turku, inside Kupittaa Park and a short walk from Kupittaanlähde Playground."
         },
         {
           "q": "Who runs it?",
@@ -463,7 +464,7 @@
       "blocks": [
         {
           "title": "On-street parking",
-          "content": "The streets bordering the park – Kupittaankatu among them – offer the largest number of spaces. They are a convenient distance from Kupittaanlahte playground, the bird pond and Adventure Park. Check Turku's current charges, zones and time limits before setting off."
+          "content": "The streets bordering the park – Kupittaankatu among them – offer the largest number of spaces. They are a convenient distance from Kupittaanlähde Playground, the bird pond and Adventure Park. Check Turku's current charges, zones and time limits before setting off."
         },
         {
           "title": "Car parks at the sports facilities",
@@ -471,7 +472,7 @@
         },
         {
           "title": "Step-free access",
-          "content": "The Kupittaankatu pedestrian avenue running through the park is flat and suits wheelchairs, walkers and prams. The most accessible routes are at the western end of the park, where Kupittaanlahte playground is located."
+          "content": "The Kupittaankatu pedestrian avenue running through the park is flat and suits wheelchairs, walkers and prams. The most accessible routes are at the western end of the park, where Kupittaanlähde Playground is located."
         },
         {
           "title": "When to take the bus instead",
@@ -485,7 +486,7 @@
         },
         {
           "q": "Where is the parking closest to the playground?",
-          "a": "The streets along and around Kupittaankatu are closest to Kupittaanlahte playground (Kupittaankatu 2) and the bird pond."
+          "a": "The streets along and around Kupittaankatu are closest to Kupittaanlähde Playground (Kupittaankatu 2) and the bird pond."
         },
         {
           "q": "How do I reach the park step-free?",

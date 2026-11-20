@@ -13,14 +13,14 @@
   "hero": {
     "title": "Kupittaanpuisto",
     "subtitle": "Suomen vanhin ja laajin kaupunkipuisto Turussa – lintulammikko, leikkipuistot, maauimala ja minigolf",
-    "rating": "4.4 (5 221)",
-    "reviewCount": "5 221 arviota",
+    "rating": "4,4",
+    "reviewCount": "5 233 arviota",
     "hours": "Avoinna ympäri vuorokauden",
     "openMaps": "Näytä sijainti"
   },
   "intro": {
     "title": "Tutustu Kupittaanpuistoon",
-    "description": "Astu Kupittaanpuistoon ja ympäröi itsesi rauhallisella pohjoismaisella viheriöllä – avarat nurmikentät, vanha puusto, tyyni järvi ja kiemurtelevat polut ilman kaupallista hälinää.\n\nNoin 24 hehtaarin kokoisena puisto on Turun laajin yhtenäinen viheralue. Kohokohtiin kuuluvat lintulammikko, lapsille tarkoitettu Kupittaanlähteen leikkipaikka ja liikennepuisto, Seikkailupuisto, monitoimikenttä sekä vuonna 1912 avattu Suomen vanhin ulkouimala.\n\nKävijät liikkuvat verkkaiseen tahtiin – juoksijat poluilla, pikniköijät nurmikentillä, lapset leikkimässä. Vanha lähdepaviljonki, vanhat veistokset ja muistolaatat tuovat mukaan kulttuurista syvyyttä. Täällä ei ole kiirettä, vain rauhoittumista ja tasapainon löytämistä.",
+    "description": "Astu Kupittaanpuistoon ja ympäröi itsesi rauhallisella pohjoismaisella viheriöllä – avarat nurmikentät, vanha puusto, lintulampi ja kiemurtelevat polut ilman kaupallista hälinää.\n\nNoin 24 hehtaarin kokoisena puisto on Turun laajin yhtenäinen viheralue. Kohokohtiin kuuluvat lintulammikko, lapsille tarkoitettu Kupittaanlähteen leikkipaikka ja liikennepuisto, Seikkailupuisto, monitoimikenttä sekä Kupittaan maauimala.\n\nKävijät liikkuvat verkkaiseen tahtiin – juoksijat poluilla, pikniköijät nurmikentillä, lapset leikkimässä. Vanha lähdepaviljonki, vanhat veistokset ja muistolaatat tuovat mukaan kulttuurista syvyyttä. Täällä ei ole kiirettä, vain rauhoittumista ja tasapainon löytämistä.",
     "visitGuide": {
       "title": "Käytännön vinkit",
       "items": [
@@ -34,7 +34,7 @@
       "title": "Mitä puistosta löytyy",
       "items": [
         "Suomen vanhin kaupunkipuisto, perustettu 1820-luvulla",
-        "Suomen vanhin ulkouimala (1912)",
+        "Suomen vanhin ulkouimala",
         "Pyhään lähteeseen liittyvä 1155 vuoden kasteperinne",
         "Kupittaanlähteen leikkipaikka, liikennepuisto ja Seikkailupuisto perheille"
       ]
@@ -46,12 +46,12 @@
       {
         "id": "history",
         "title": "Kupittaanpuiston historia",
-        "content": "Kupittaanpuiston juuret ulottuvat 1820-luvulle, jolloin kylpylälähteen viereen rakennettiin kävelytie. 1800- ja 1900-luvuilla siitä kehittyi yleisölle avoin kaupunkipuisto – Turun kaupunki kuvaa sitä nykyään Suomen vanhimmaksi kaupunkipuistoksi.\n\nPuiston pyhä lähde liittyy perimätietoon: tarinan mukaan piispa Henrik kastoi täällä vuonna 1155 Suomen ensimmäiset kristityt. Vuosisatojen ajan paikka oli kylpylä ja kokoontumispaikka, joka kantaa sekä uskonnollista että maallista muistia.\n\nSen jälkeen puistoa on laajennettu useasti, ja siihen on lisätty ulkouimala (1912), lasten leikkipaikat ja urheilutilat. Näin siitä on kasvanut viheralue, joka yhdistää luonnon, historian ja virkistyksen."
+        "content": "Kupittaanpuiston juuret ulottuvat 1820-luvulle, jolloin kylpylälähteen viereen rakennettiin kävelytie. 1800- ja 1900-luvuilla siitä kehittyi yleisölle avoin kaupunkipuisto – Turun kaupunki kuvaa sitä nykyään Suomen vanhimmaksi kaupunkipuistoksi.\n\nPuiston pyhä lähde liittyy perimätietoon: tarinan mukaan piispa Henrik kastoi täällä vuonna 1155 Suomen ensimmäiset kristityt. Vuosisatojen ajan paikka oli kylpylä ja kokoontumispaikka, joka kantaa sekä uskonnollista että maallista muistia.\n\nSen jälkeen puistoa on laajennettu useasti, ja siihen on lisätty ulkouimala, lasten leikkipaikat ja urheilutilat. Näin siitä on kasvanut viheralue, joka yhdistää luonnon, historian ja virkistyksen."
       },
       {
         "id": "architecture",
         "title": "Puutarha ja maisema",
-        "content": "Noin 24 hehtaarin laajuisessa puistossa ovat ydinauksena avarat nurmikentät, muodolliset puutarhat, kiemurtelevat polut ja järvimaisema. Niitä täydentävät vanha lähdepaviljonki, vanhat veistokset, muistolaatat ja vuosisatoja vanhat puut.\n\nAlueella on Suomen vanhin ulkouimala (1912), Kupittaanlähteen leikkipaikka ja Seikkailupuisto. Luonnonmaisema ja virkistysrakenteet sulautuvat yhteen, ja suunnittelu tasapainottaa avointa luonnonviherryttä ja jäsenneltyä puutarhaa."
+        "content": "Noin 24 hehtaarin laajuisessa puistossa ovat ydinauksena avarat nurmikentät, muodolliset puutarhat, kiemurtelevat polut ja lintulampi. Niitä täydentävät vanha lähdepaviljonki, vanhat veistokset, muistolaatat ja vuosisatoja vanhat puut.\n\nAlueella on Suomen vanhin ulkouimala, Kupittaanlähteen leikkipaikka ja Seikkailupuisto. Luonnonmaisema ja virkistysrakenteet sulautuvat yhteen, ja suunnittelu tasapainottaa avointa luonnonviherryttä ja jäsenneltyä puutarhaa."
       },
       {
         "id": "culture",
@@ -61,7 +61,7 @@
       {
         "id": "pool",
         "title": "Ulkouimala",
-        "content": "Suomen vanhin ulkouimala, joka avattiin vuonna 1912, on edelleen suosituin kesäkohde. Vuonna 2026 kausi oli 5.6.–13.9. ja se on nyt päättynyt; seuraavan kauden ajankohdat julkaisee Turun kaupunki.\n\nUimalassa on erillinen pääsymaksu, jonka kaupunki määrittää, ja ajantasaiset hinnat löytyvät osoitteesta turku.fi/kupittaan-maauimala. Uimala sijaitsee puiston laidalla, joten uiminen onnistuu vihreän ympäristön äärellä."
+        "content": "Kupittaan maauimala on kesäkauden uimapaikka. Vuonna 2026 kausi oli 5.6.–13.9. ja se on nyt päättynyt; seuraavan kauden ajankohdat julkaisee Turun kaupunki.\n\nUimalassa on erillinen pääsymaksu, jonka kaupunki määrittää, ja ajantasaiset hinnat löytyvät osoitteesta turku.fi/kupittaan-maauimala. Uimala sijaitsee puiston laidalla, joten uiminen onnistuu vihreän ympäristön äärellä."
       }
     ]
   },
@@ -76,11 +76,11 @@
     "city": "Kaupunki",
     "cityValue": "Turku",
     "googleRating": "Google-arvio",
-    "googleRatingValue": "4.4 / 5 (5 221)",
+    "googleRatingValue": "4,4 / 5 (5 233)",
     "phone": "Puhelin",
     "phoneValue": "+358 2 330 000",
     "address": "Osoite",
-    "addressValue": "Kupittaankatu 2, 20520 Turku, Suomi"
+    "addressValue": "20520 Turku, Suomi"
   },
   "hours": {
     "title": "Aukioloajat",
@@ -132,7 +132,7 @@
       "Käy pyhällä lähteellä, opi suomalaisesta uskonnollisesta historiasta ja kulttuurista",
       "Katso vuosisatoja vanhoja puita ja historiallista lähdepaviljonkia",
       "Vaella puutarhapolkuja ja seuraa vuodenaikojen kukintoja",
-      "Kävele järven rantaa ja tarkkaile linnustoa ja järvimaisemaa",
+      "Kävele järven rantaa ja tarkkaile linnustoa ja lintulampia",
       "Tutustu lasten leikkipaikkaan ja Seikkailupuistoon",
       "Käy ulkouimalan alueella ja opi Suomen vanhimman uimalan historiasta",
       "Lepää avaralla nurmikentällä ja eläyty paikallisten päivittäiseen piknik-elämään",
@@ -208,13 +208,14 @@
   },
   "reviews": {
     "title": "Kävijöiden arviot",
-    "declaration": "Kupittaanpuistolla on Google Mapsin arvio 4.4 / 5 yhteensä 5 221 arviosta (tarkistettu 10/2026). Yksittäiset arviot voi lukea Google Mapsista alla olevasta linkistä.",
+    "declaration": "Kupittaanpuistolla on Google Mapsin arvio 4,4 / 5 yhteensä 5 233 arviosta (tarkistettu 20.11.2026). Yksittäiset arviot voi lukea Google Mapsista alla olevasta linkistä.",
     "moreReviews": "Lue kaikki arviot Google Mapsissa",
     "items": []
   },
   "mapSection": {
     "title": "Saapuminen",
-    "subtitle": "Kupittaankatu 2, 20520 Turku, Suomi",
+    "subtitle": "20520 Turku, Suomi",
+    "mapTitle": "Kupittaanpuisto Google Mapsissa",
     "openMaps": "Avaa Google Mapsissa"
   },
   "footer": {

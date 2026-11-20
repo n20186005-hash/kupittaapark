@@ -16,6 +16,10 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import TopicGuides from '@/components/TopicGuides';
 import Footer from '@/components/Footer';
+import NearbyGuides from '@/components/NearbyGuides';
+import { routing } from '@/i18n/routing';
+import { hasLocale } from 'next-intl';
+import { notFound } from 'next/navigation';
 
 export default async function HomePage({
   params,
@@ -23,6 +27,7 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
   setRequestLocale(locale);
 
   const attractionSchema = {
@@ -35,7 +40,6 @@ export default async function HomePage({
     telephone: ATTRACTION.telephone,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: ATTRACTION.streetAddress,
       addressLocality: ATTRACTION.addressLocality,
       addressRegion: ATTRACTION.addressRegion,
       postalCode: ATTRACTION.postalCode,
@@ -46,15 +50,8 @@ export default async function HomePage({
       latitude: ATTRACTION.latitude,
       longitude: ATTRACTION.longitude,
     },
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: ATTRACTION.ratingValue,
-      reviewCount: ATTRACTION.ratingCount,
-      bestRating: 5,
-    },
     isAccessibleForFree: ATTRACTION.isAccessibleForFree,
-    hasMap: ATTRACTION.hasMap,
-    openingHours: 'Mo-Su 00:00-23:59',
+    hasMap: ATTRACTION.mapsUrl,
   };
 
   return (
@@ -67,6 +64,7 @@ export default async function HomePage({
       <main>
         <Hero />
         <Intro />
+        <NearbyGuides locale={locale} />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />

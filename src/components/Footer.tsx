@@ -1,10 +1,12 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
+import { nearbyLabels } from '@/lib/nearby-labels';
+import type { Locale } from '@/i18n/routing';
 
 export default function Footer() {
   const t = useTranslations('footer');
   const tt = useTranslations('topics');
-  const locale = useLocale();
+  const locale = useLocale() as Locale;
   const prefix = `/${locale}`;
   const topicLinks = (tt.raw('links') || []) as Array<{ slug: string; title: string }>;
 
@@ -44,6 +46,9 @@ export default function Footer() {
             <span className="font-semibold" style={{ color: 'var(--text-primary)' }}>
               {tt('guidesTitle')}
             </span>
+            <a href={`${prefix}/nearby`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {nearbyLabels[locale].title}
+            </a>
             {topicLinks.map((link) => (
               <a
                 key={link.slug}
